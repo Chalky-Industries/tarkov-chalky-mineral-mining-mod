@@ -1,0 +1,135 @@
+<configs>
+
+
+	<!-- Recipe Changes Index -->
+		<!-- Processed Ores -->
+		<!-- New Recipes for Existing Items -->
+		<!-- New Item Recipes -->
+		
+		
+		
+
+	<!-- Processed Ore -->
+	
+	<append xpath="/recipes">
+	<recipe name="processedChalcopyrite" count="1" craft_area="chemistryStation" craft_time="30" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceChalcopyrite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedChalcopyriteMassive" count="1" craft_area="chemistryStation" craft_tool="toolOreProcessing" craft_time="60" tags="chemStationCrafting">
+		<ingredient name="resourceChalcopyriteMassive" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="4"/>
+	</recipe>
+	<recipe name="processedChalcocite" count="1" craft_area="chemistryStation" craft_time="35" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceChalcocite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedChalcociteMassive" count="1" craft_area="chemistryStation" craft_time="70" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceChalcociteMassive" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="4"/>
+	</recipe>
+	<recipe name="processedSmithsonite" count="1" craft_area="chemistryStation" craft_time="30" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceSmithsonite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedSmithsoniteMassive" count="1" craft_area="chemistryStation" craft_time="60" craft_tool="toolOreProcessing"  tags="chemStationCrafting">
+		<ingredient name="resourceSmithsoniteMassive" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="4"/>
+	</recipe>
+	<recipe name="processedSphalerite" count="1" craft_area="chemistryStation" craft_time="35" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceSphalerite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedSphaleriteMassive" count="1" craft_area="chemistryStation" craft_time="70" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceSphaleriteMassive" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="4"/>
+	</recipe>
+	<recipe name="processedSilverGalena" count="1" craft_area="chemistryStation" craft_time="30" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceSilverGalena" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedMiargyrite" count="1" craft_area="chemistryStation" craft_time="35" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceMiargyrite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedPyrargyrite" count="1" craft_area="chemistryStation" craft_time="40" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourcePyrargyrite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedProustite" count="1" craft_area="chemistryStation" craft_time="40" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceProustite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedCupropolybasite" count="1" craft_area="chemistryStation" craft_time="40" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceCupropolybasite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedAcanthite" count="1" craft_area="chemistryStation" craft_time="50" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceAcanthite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedPorphyry" count="1" craft_area="chemistryStation" craft_time="35" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourcePorphyry" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedArsenopyrite" count="1" craft_area="chemistryStation" craft_time="40" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceArsenopyrite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedBlueClay" count="1" craft_area="chemistryStation" craft_time="40" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceBlueClay" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedPetzite" count="1" craft_area="chemistryStation" craft_time="50" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourcePetzite" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedPlacerGold" count="1" craft_area="chemistryStation" craft_time="50" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourcePlacerGold" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedGoldQuartz" count="1" craft_area="chemistryStation" craft_time="50" craft_tool="toolOreProcessing" tags="chemStationCrafting">
+		<ingredient name="resourceGoldQuartz" count="1"/>
+		<ingredient name="resourceActivatedCarbon" count="1"/>
+	</recipe>
+	<recipe name="processedHalite" count="1" craft_area="chemistryStation" craft_time="25" tags="chemStationCrafting">
+		<ingredient name="resourceHalite" count="1"/>
+		<ingredient name="resourceScrapIron" count="10"/>
+		<ingredient name="resourcePaper" count="1"/>
+	</recipe>
+	
+	<!--  New Recipes for Existing Items -->
+	
+	<recipe name="processedBrass" count="1" craft_area="chemistryStation" craft_time="10" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedCopper" count="700"/>
+		<ingredient name="resourceRefinedZinc" count="300"/>
+	</recipe>
+	<recipe name="processedSulfuricAcid_Sulfur" count="1" craft_area="chemistryStation" craft_time="55" tags="chemStationCrafting">
+		<ingredient name="resourceSulfur" count="75"/>
+		<ingredient name="resourcePotassiumNitratePowder" count="200"/>
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+	</recipe>	
+	<recipe name="processedNitricAcid_Distill" count="1" craft_area="chemistryStation" craft_time="55" tags="chemStationCrafting">
+		<ingredient name="resourceSulfuricAcid" count="400"/>
+		<ingredient name="resourcePotassiumNitratePowder" count="450"/>
+	</recipe>
+	
+	<!-- New Item Recipes -->
+	
+	<recipe name="resourceSilverIngot" count="1" craft_area="chemistryStation" craft_time="60" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedSilver" count="317"/>
+	</recipe>
+	<recipe name="resourceGoldIngot" count="1" craft_area="chemistryStation" craft_time="180" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedGold" count="102"/>
+	</recipe>	
+	<recipe name="resourceActivatedCarbon" count="20" craft_area="chemistryStation" craft_time="10" tags="chemStationCrafting">
+		<ingredient name="resourceCoal" count="300"/>
+		<ingredient name="drinkJarBoiledWater" count="1"/>
+	</recipe>
+	<recipe name="resourceSmokelessCoal" count="1" craft_area="chemistryStation" craft_time="15" tags="chemStationCrafting">
+		<ingredient name="resourceCoal" count="25"/>
+	</recipe>
+	
+	</append>
+	
+</configs>	

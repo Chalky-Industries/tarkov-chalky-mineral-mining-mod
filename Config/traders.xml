@@ -1,0 +1,45 @@
+<configs>
+
+	<!-- Chemistry Station Tools Item Group -->
+
+	<insertBefore xpath="//trader_item_group[@name='groupRangedAll']">
+		<trader_item_group name="groupChemistryTools" count="all">
+			<item name="toolOreProcessing"/>
+			<item name="toolChemistrySupplies"/>
+			<item name="toolMetalRefining"/>
+		</trader_item_group>
+	</insertBefore>
+			
+	<!-- Adds New Tools to All Traders -->
+	
+	<append xpath="//trader_info[@id='1']">
+		<trader_items count="all">
+			<item group="groupChemistryTools" count="1"/>
+		</trader_items>
+	</append>
+	
+	<append xpath="//trader_info[@id='2']">
+		<trader_items count="all">
+			<item group="groupChemistryTools" count="1"/>
+		</trader_items>
+	</append>
+	
+	<append xpath="//trader_info[@id='6']">
+		<trader_items count="all">
+			<item group="groupChemistryTools" count="1"/>
+		</trader_items>
+	</append>
+	
+	<append xpath="//trader_info[@id='7']">
+		<trader_items count="all">
+			<item group="groupChemistryTools" count="1"/>
+		</trader_items>
+	</append>
+	
+	<append xpath="//trader_info[@id='8']">
+		<trader_items count="all">
+			<item group="groupChemistryTools" count="1"/>
+		</trader_items>
+	</append>
+							
+</configs>

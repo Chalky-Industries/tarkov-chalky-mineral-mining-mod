@@ -1,0 +1,898 @@
+<configs>
+
+	
+	<!-- Item Changes Index -->
+		<!-- Primary Resource Ores -->
+		<!-- Primary Silver Ores -->
+		<!-- Primary Gold Ores -->
+		<!-- Processed Resource Ore Bundles-->
+		<!-- Processed Silver Ore Bundles-->
+		<!-- Processed Gold Ore Bundles-->
+		<!-- New Recipe Bundles for Existing Resources -->
+		<!-- New Items and Resources -->
+		<!-- Chemistry Station Tools -->
+		<!-- Stack Size Changes -->
+		<!-- Auger RPM Change -->
+	
+	
+
+	<!-- Primary Resource Ores -->
+	
+	<append xpath="/items">
+	<item name="resourceChalcopyrite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="50"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceChalcopyriteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="25"/> 
+		<property name="EconomicValue" value="250"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceChalcocite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="75"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceChalcociteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="25"/> 
+		<property name="EconomicValue" value="375"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceSmithsonite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="30"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceSmithsoniteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="25"/> 
+		<property name="EconomicValue" value="200"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceSphalerite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="45"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceSphaleriteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="25"/> 
+		<property name="EconomicValue" value="300"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceHalite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="25"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	
+	<!-- Primary Silver Ores -->
+	
+	<item name="resourceSilverGalena">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="75"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceMiargyrite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="150"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourcePyrargyrite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="200"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourceProustite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="200"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourceCupropolybasite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="225"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourceAcanthite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="400"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	
+	<!-- Primary Gold Ores -->
+	
+	<item name="resourcePorphyry">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="75"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>
+	<item name="resourceArsenopyrite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="200"/>
+		<property name="EconomicBundleSize" value="10"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourceBlueClay">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="10"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="clay_grab"/>
+		<property name="SoundPlace" value="clay_place"/>
+	</item>
+	<item name="resourcePetzite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="10"/>
+		<property name="EconomicBundleSize" value="10"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourcePlacerGold">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="10"/>
+		<property name="EconomicBundleSize" value="10"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	<item name="resourceGoldQuartz">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="10"/>
+		<property name="EconomicBundleSize" value="10"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	
+	<!-- Processed Resource Ore Bundles-->
+	
+	<item name="processedChalcopyrite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="100"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
+			<property name="Create_item_count" value="100,10,"/>
+		</property>
+	</item>
+	<item name="processedChalcopyriteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceSulfur"/>
+			<property name="Create_item_count" value="800,25,80,"/>
+		</property>
+	</item>	
+	<item name="processedChalcocite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="75"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
+			<property name="Create_item_count" value="200,20,"/>
+		</property>
+	</item>
+	<item name="processedChalcociteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
+			<property name="Create_item_count" value="1600,50,4,160,"/>
+		</property>
+	</item>
+	<item name="processedSmithsonite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="100"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedZinc"/>
+			<property name="Create_item_count" value="75"/>
+		</property>
+	</item>
+	<item name="processedSmithsoniteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedZinc"/>
+			<property name="Create_item_count" value="30,600,"/>
+		</property>
+	</item>
+	<item name="processedSphalerite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="75"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedZinc,resourceSulfur"/>
+			<property name="Create_item_count" value="120,15,"/>
+		</property>
+	</item>
+	<item name="processedSphaleriteMassive">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedZinc,resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
+			<property name="Create_item_count" value="960,50,4,80,"/>
+		</property>
+	</item>
+	<item name="processedHalite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="100"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceCanOfWhiteSalt"/>
+			<property name="Create_item_count" value="1"/>
+		</property>
+	</item>
+	
+	<!-- Processed Silver Ore Bundles -->
+	
+	<item name="processedSilverGalena">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="100"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceScrapLead"/>
+			<property name="Create_item_count" value="20,250,"/>
+		</property>
+	</item>
+	<item name="processedMiargyrite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="75"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
+			<property name="Create_item_count" value="50,20,"/>
+		</property>
+	</item>
+	<item name="processedPyrargyrite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
+			<property name="Create_item_count" value="90,30,"/>
+		</property>
+	</item>
+	<item name="processedProustite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
+			<property name="Create_item_count" value="100,30,"/>
+		</property>
+	</item>
+	<item name="processedCupropolybasite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceSulfur"/>
+			<property name="Create_item_count" value="425,100,30,"/>
+		</property>
+	</item>
+	<item name="processedAcanthite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
+			<property name="Create_item_count" value="200,10,75,"/>
+		</property>
+	</item>
+	
+	<!-- Processed Gold Ore Bundles -->
+	
+	<item name="processedPorphyry">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="75"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedGold"/>
+			<property name="Create_item_count" value="150,1,"/>
+		</property>
+	</item>
+	<item name="processedArsenopyrite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedGold,resourceSulfur"/>
+			<property name="Create_item_count" value="5,30,"/>
+		</property>
+	</item>
+	<item name="processedBlueClay">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="35,5,"/>
+		</property>
+	</item>
+	<item name="processedPetzite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="125,15,"/>
+		</property>
+	</item>
+	<item name="processedPlacerGold">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedGold"/>
+			<property name="Create_item_count" value="25,"/>
+		</property>
+	</item>
+	<item name="processedGoldQuartz">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedGold"/>
+			<property name="Create_item_count" value="35,"/>
+		</property>
+	</item>
+	
+	<!-- New Recipe Bundles for Existing Resources -->
+	
+	<item name="processedBrass">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="100"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceScrapBrass"/>
+			<property name="Create_item_count" value="1000"/>
+		</property>
+	</item>
+	<item name="processedSulfuricAcid_Sulfur">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceSulfuricAcid"/>
+			<property name="Create_item_count" value="500"/>
+		</property>
+	</item>
+	<item name="processedNitricAcid_Distill">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceNitricAcid"/>
+			<property name="Create_item_count" value="500"/>
+		</property>
+	</item>
+	
+	<!-- New Items and Resources -->
+	
+	<item name="resourceRefinedZinc">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="10000"/> 
+		<property name="EconomicValue" value="25"/>
+		<property name="EconomicBundleSize" value="50"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="gunpowder_grab"/>
+		<property name="SoundPlace" value="gunpowder_place"/>
+	</item>
+	<item name="resourceRefinedCopper">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="10000"/> 
+		<property name="EconomicValue" value="60"/>
+		<property name="EconomicBundleSize" value="50"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>
+	<item name="resourceRefinedSilver">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="2500"/> 
+		<property name="EconomicValue" value="15"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
+	<item name="resourceRefinedGold">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="300"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>		
+	<item name="resourceSilverIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="100"/> 
+		<property name="EconomicValue" value="5600"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>
+	<item name="resourceGoldIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="100"/> 
+		<property name="EconomicValue" value="36000"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>				
+	<item name="resourceSulfur">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="10000"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="gunpowder_grab"/>
+		<property name="SoundPlace" value="gunpowder_place"/>
+	</item>
+	<item name="resourceActivatedCarbon">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="2000"/>		
+		<property name="EconomicValue" value="2"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="sand_grab"/>
+		<property name="SoundPlace" value="sand_place"/>
+	</item>
+	<item name="resourceSmokelessCoal">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/>
+		<property name="FuelValue" value="1800"/>
+		<property name="EconomicValue" value="5"/>
+		<property name="EconomicBundleSize" value="3"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="coal_grab"/>
+		<property name="SoundPlace" value="coal_place"/>
+	</item>		
+	<item name="streamerGoutLord">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="1"/>		
+		<property name="EconomicValue" value="3500"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="SoundPickup" value="rottingflesh_grab"/>
+		<property name="SoundPlace" value="rottingflesh__place"/>
+	</item>
+
+	<!-- Chemistry Station Tools -->
+	
+	<item name="toolMetalRefining">
+		<property name="UnlockedBy" value="craftingWorkstations"/>
+		<property name="Tags" value="workstationSkill"/>
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Morganic"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="Group" value="Tools/Traps"/>
+		<property name="EconomicValue" value="300"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="ItemTypeIcon" value="forge"/>
+		<property name="SoundPickup" value="crucible_grab"/>
+		<property name="SoundPlace" value="crucible_place"/>
+	</item>			
+	<item name="toolChemistrySupplies">
+		<property name="UnlockedBy" value="craftingWorkstations"/>
+		<property name="Tags" value="workstationSkill"/>
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Msteel"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="EconomicValue" value="800"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Tools/Traps"/>
+		<property name="ItemTypeIcon" value="forge"/>
+		<property name="SoundPickup" value="puremineralwater_grab"/>
+		<property name="SoundPlace" value="puremineralwater_place"/>
+			<effect_group tiered="false">
+				<requirement name="!HoldingItemHasTags" tags="toolsChemistrySupplies"/>
+				<passive_effect name="CraftingTime" operation="perc_add" value="-.05"/>
+			</effect_group>
+	</item>
+	<item name="toolOreProcessing">
+		<property name="UnlockedBy" value="craftingWorkstations"/>
+		<property name="Tags" value="workstationSkill"/>
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Morganic"/>
+		<property name="Stacknumber" value="1"/>
+		<property name="Group" value="Tools/Traps"/>
+		<property name="EconomicValue" value="500"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="ItemTypeIcon" value="forge"/>
+		<property name="SoundPickup" value="crucible_grab"/>
+		<property name="SoundPlace" value="crucible_place"/>
+	</item>			
+	</append>
+		
+	<!-- Stack Size Changes -->
+		<!-- Set the stack size of some mundane resources to 10,000 -->
+		
+	<set xpath="/items/item[@name='resourceClayLump']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceCrushedSand']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceRockSmall']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceScrapIron']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceScrapLead']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceScrapBrass']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceCoal']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourcePotassiumNitratePowder']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceOilShale']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceScrapPolymers']/property[@name='Stacknumber']/@value">10000</set>
+	<set xpath="/items/item[@name='resourceWood']/property[@name='Stacknumber']/@value">10000</set>
+	
+	<!-- Auger RPM Change -->
+		<!-- Changed the RPM of the tier 3 auger to 360 to balance for getting ore from destroyed blocks(60RPM faster than vanilla) -->
+		
+	<set xpath="/items/item[@name='meleeToolPickT3Auger']/effect_group[@name='meleeToolPickT3Auger']/passive_effect[@name='RoundsPerMinute']/@value">360</set>
+	
+</configs>	
+

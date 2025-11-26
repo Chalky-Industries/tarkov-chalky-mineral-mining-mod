@@ -1,0 +1,429 @@
+<configs>
+
+	<!-- Block Changes Index -->
+		<!-- New Minerals Drop Rates -->	
+		<!-- Chemistry Station Tool Module -->
+		<!-- Vehicle Salvage Changes -->
+	
+
+	<!-- New Minerals Drop Rates -->
+		<!-- Chance for minerals to drop when the block is DESTROYED. Tying mineral drops to harvest events makes it nigh impossible to balance drop rates -->
+		
+	<append xpath="/blocks/block[(@name='terrOreIron')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".055" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".035" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".01" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".0025" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".02" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".015" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00075" count="1" />	
+		<drop event="Destroy" name="resourcePorphyry" prob=".0115" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00055" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0003" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrOreLead')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".035" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".04" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00175" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".03" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".01" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00055" count="1" />	
+		<drop event="Destroy" name="resourcePorphyry" prob=".0085" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrOreCoal')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".04" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".04" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".0175" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".0125" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00055" count="1" />
+		<drop event="Destroy" name="resourcePorphyry" prob=".0085" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrOrePotassiumNitrate')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".03" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".03" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00175" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".00175" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".0175" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".01" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".0005" count="1" />		
+		<drop event="Destroy" name="resourcePorphyry" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".0004" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrOreOilDeposit')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".0375" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".0375" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00225" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".00225" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".0175" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".01" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourcePorphyry" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".0004" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrStone')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".035" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".05" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0125" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00175" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".00275" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".02" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".0125" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".0005" count="1" />		
+		<drop event="Destroy" name="resourcePorphyry" prob=".0085" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0003" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrSand')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".02" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".025" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".0015" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".015" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00035" count="1" />		
+		<drop event="Destroy" name="resourcePorphyry" prob=".0055" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".002" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".00020" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".00020" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrDirt')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".0175" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".0175" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".015" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourcePorphyry" prob=".0055" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".002" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".00020" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	<append xpath="/blocks/block[(@name='terrGravel')]">
+		<drop event="Destroy" name="resourceChalcopyrite" prob=".0175" count="1" />
+		<drop event="Destroy" name="resourceSmithsonite" prob=".02" count="1" />
+		<drop event="Destroy" name="resourceChalcocite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSilverGalena" prob=".015" count="1" />
+		<drop event="Destroy" name="resourceMiargyrite" prob=".0075" count="1" />
+		<drop event="Destroy" name="resourcePyrargyrite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceProustite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceCupropolybasite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceAcanthite" prob=".00045" count="1" />		
+		<drop event="Destroy" name="resourcePorphyry" prob=".0055" count="1" />
+		<drop event="Destroy" name="resourceArsenopyrite" prob=".0006" count="1" />
+		<drop event="Destroy" name="resourceBlueClay" prob=".002" count="1" />
+		<drop event="Destroy" name="resourcePetzite" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+	</append>
+	
+	
+	<!-- Chemistry Station Tool Module -->
+		
+	<append xpath="/blocks/block[@name='chemistryStation']/property[@class='Workstation']/property[@name='Modules']/@value">,tools</append>
+	<append xpath="/blocks/block[@name='chemistryStation']/property[@class='Workstation']">
+		<property name="RequiredTools" value="toolOreProcessing,toolChemistrySupplies,toolMetalRefining"/>
+		<property name="ToolNames" value="1,2,3"/>
+	</append>
+	
+	
+	<!-- Vehicle Salvage Changes -->
+		<!-- Changed engine, battery, radiator, and acid from "drop on harvest" to "drop on destroy". -->
+		<!-- Changed vanilla drop rates on engine, battery, radiator, and acid. Easier to acquire in the early game and tones down the excessive drop rate at end game-->
+		<!-- Removed the perk magazine requirement to get acid from vehicles, tag="WasteTreasuresAcidHarvest"(doesn't exist in EFT). Lowered drop rate to compensate for adding a new way to acquire acid. -->			
+		<!-- Changes were made on the following vehicle master blocks:
+			cntCar03SedanDamage1Master
+			cntSedan01White
+			cntSedan3Wide01White
+			cntFrontCrumpledSedan01White
+			cntMinivan01White
+			cntMinivan3Wide01White
+			cntSUV01White
+			cntPickupTruck01White
+			cntPickupTruck3Wide01White
+			cntSemiTruck01White
+			cntPoliceCar01PickedLockBonus
+			cntPoliceCar01AlarmUnlocked
+			cntFireTruck01White
+			cntBusSchool
+			cntArmyTruckOpen
+			cntFarmTruckClosed -->
+	
+	<remove xpath="/blocks/block[@name='cntCar03SedanDamage1Master']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntCar03SedanDamage1Master']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntCar03SedanDamage1Master']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntCar03SedanDamage1Master']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntCar03SedanDamage1Master']/drop[@name='resourceScrapIron']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntSedan01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntSedan01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntSedan01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntSedan01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntSedan01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntSedan3Wide01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntSedan3Wide01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntSedan3Wide01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntSedan3Wide01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntSedan3Wide01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntFrontCrumpledSedan01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntFrontCrumpledSedan01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntFrontCrumpledSedan01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntFrontCrumpledSedan01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntFrontCrumpledSedan01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntMinivan01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntMinivan01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntMinivan01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntMinivan01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntMinivan01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+	
+	<remove xpath="/blocks/block[@name='cntMinivan3Wide01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntMinivan3Wide01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntMinivan3Wide01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntMinivan3Wide01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntMinivan3Wide01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntSUV01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntSUV01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntSUV01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntSUV01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntSUV01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntPickupTruck01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntPickupTruck01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntPickupTruck01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntPickupTruck01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntPickupTruck01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntPickupTruck3Wide01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntPickupTruck3Wide01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntPickupTruck3Wide01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntPickupTruck3Wide01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntPickupTruck3Wide01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntSemiTruck01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntSemiTruck01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntSemiTruck01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntSemiTruck01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntSemiTruck01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntPoliceCar01PickedLockBonus']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntPoliceCar01PickedLockBonus']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntPoliceCar01PickedLockBonus']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntPoliceCar01PickedLockBonus']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntPoliceCar01PickedLockBonus']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntPoliceCar01AlarmUnlocked']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntPoliceCar01AlarmUnlocked']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntPoliceCar01AlarmUnlocked']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntPoliceCar01AlarmUnlocked']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntPoliceCar01AlarmUnlocked']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntFireTruck01White']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntFireTruck01White']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntFireTruck01White']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntFireTruck01White']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntFireTruck01White']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntBusSchool']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntBusSchool']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntBusSchool']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntBusSchool']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntBusSchool']/drop[@name='resourceCloth']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntArmyTruckOpen']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntArmyTruckOpen']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntArmyTruckOpen']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntArmyTruckOpen']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntArmyTruckOpen']/drop[@name='resourceScrapIron']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	<remove xpath="/blocks/block[@name='cntFarmTruckClosed']/drop[@name='smallEngine']" />
+	<remove xpath="/blocks/block[@name='cntFarmTruckClosed']/drop[@name='carBattery']" />
+	<remove xpath="/blocks/block[@name='cntFarmTruckClosed']/drop[@name='resourceRadiator']" />
+	<remove xpath="/blocks/block[@name='cntFarmTruckClosed']/drop[@name='resourceAcid']" />
+	<insertAfter xpath="/blocks/block[@name='cntFarmTruckClosed']/drop[@name='resourceScrapIron']">
+		<drop event="Destroy" name="smallEngine" count="1" prob="0.175" />
+		<drop event="Destroy" name="carBattery" count="1" prob="0.20" />
+		<drop event="Destroy" name="resourceRadiator" count="1" prob="0.375" />
+		<drop event="Destroy" name="resourceAcid" count="1" prob=".055" />
+	</insertAfter>
+
+	
+</configs>

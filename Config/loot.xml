@@ -1,0 +1,10 @@
+<configs>
+
+	<!-- Added extremely low chance of finding AquaFPS's plushie in his throne -->
+
+	<append xpath="//lootgroup[@name='groupEftToilet']/item">
+			<item name="streamerGoutLord" loot_prob_template="extremelyLow"/>
+		
+	</append>
+					
+</configs>
