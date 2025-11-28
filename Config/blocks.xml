@@ -1,13 +1,13 @@
 <configs>
 
-	<!-- Block Changes Index -->
+	<!-- Index -->
 		<!-- New Minerals Drop Rates -->	
 		<!-- Chemistry Station Tool Module -->
 		<!-- Vehicle Salvage Changes -->
 	
 
 	<!-- New Minerals Drop Rates -->
-		<!-- Chance for minerals to drop when the block is DESTROYED. Tying mineral drops to harvest events makes it nigh impossible to balance drop rates -->
+		<!-- Chance for minerals to drop when the block is DESTROYED. Tying mineral drops to harvest event makes it impossible to balance drop rates -->
 		
 	<append xpath="/blocks/block[(@name='terrOreIron')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".055" count="1" />
@@ -219,6 +219,10 @@
 	
 	
 	<!-- Chemistry Station Tool Module -->
+		<!-- Added station tool module to the chemistry bench. The chemistry bench is where all the new ores are processed into elements and precious metals are refined. -->
+		<!-- Ore processing station tool is required to break down ore/minerals-->
+		<!-- Refining station tool is required to smelt precious metals into bars-->
+		<!-- Chemistry Supplies slightly reduces craft times for all recipes made at this station-->
 		
 	<append xpath="/blocks/block[@name='chemistryStation']/property[@class='Workstation']/property[@name='Modules']/@value">,tools</append>
 	<append xpath="/blocks/block[@name='chemistryStation']/property[@class='Workstation']">
@@ -230,7 +234,7 @@
 	<!-- Vehicle Salvage Changes -->
 		<!-- Changed engine, battery, radiator, and acid from "drop on harvest" to "drop on destroy". -->
 		<!-- Changed vanilla drop rates on engine, battery, radiator, and acid. Easier to acquire in the early game and tones down the excessive drop rate at end game-->
-		<!-- Removed the perk magazine requirement to get acid from vehicles, tag="WasteTreasuresAcidHarvest"(doesn't exist in EFT). Lowered drop rate to compensate for adding a new way to acquire acid. -->			
+		<!-- Removed the perk magazine requirement to get acid from vehicles, tag="WasteTreasuresAcidHarvest"(doesn't exist in EFT overhaul). Lowered drop rate to compensate for adding a new way to acquire acid. -->			
 		<!-- Changes were made on the following vehicle master blocks:
 			cntCar03SedanDamage1Master
 			cntSedan01White

@@ -1,7 +1,7 @@
 <configs>
 
 	
-	<!-- Item Changes Index -->
+	<!-- Index -->
 		<!-- Primary Resource Ores -->
 		<!-- Primary Silver Ores -->
 		<!-- Primary Gold Ores -->
@@ -17,7 +17,8 @@
 	
 
 	<!-- Primary Resource Ores -->
-	
+		<!-- Main source of copper, zinc, and sulfur. Rarer ores contain some precious metals. -->
+		
 	<append xpath="/items">
 	<item name="resourceChalcopyrite">
 		<property name="HoldType" value="45"/>
@@ -129,7 +130,7 @@
 	</item>
 	
 	<!-- Primary Silver Ores -->
-	
+		
 	<item name="resourceSilverGalena">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -645,7 +646,8 @@
 	</item>
 	
 	<!-- New Recipe Bundles for Existing Resources -->
-	
+		<!-- Adds recipes that use new components from this mod to make items that already existed in vanilla & 7DEFT -->
+		
 	<item name="processedBrass">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
@@ -699,7 +701,10 @@
 	</item>
 	
 	<!-- New Items and Resources -->
-	
+		<!-- Adds new elements and precious metal ingots -->
+		<!-- Coal resource became obsolete with 7DEFT's realistic gunpowder recipe. Added two new recipes that use coal
+			 as a component: Activated Carbon used for seperating elements and Smokeless Coal as a station power source.-->
+			 
 	<item name="resourceRefinedZinc">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -822,7 +827,8 @@
 	</item>
 
 	<!-- Chemistry Station Tools -->
-	
+		<!-- Newly added station tools required for mineral processing and precious metal refining -->
+		
 	<item name="toolMetalRefining">
 		<property name="UnlockedBy" value="craftingWorkstations"/>
 		<property name="Tags" value="workstationSkill"/>
@@ -875,7 +881,7 @@
 	</append>
 		
 	<!-- Stack Size Changes -->
-		<!-- Set the stack size of some mundane resources to 10,000 -->
+		<!-- Sets the stack size of some mundane resources to 10,000 -->
 		
 	<set xpath="/items/item[@name='resourceClayLump']/property[@name='Stacknumber']/@value">10000</set>
 	<set xpath="/items/item[@name='resourceCrushedSand']/property[@name='Stacknumber']/@value">10000</set>
