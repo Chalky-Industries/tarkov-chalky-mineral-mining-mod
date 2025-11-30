@@ -5,9 +5,11 @@
 		<!-- Primary Resource Ores -->
 		<!-- Primary Silver Ores -->
 		<!-- Primary Gold Ores -->
+		<!-- Primary Platinum Group Element Ores -->
 		<!-- Processed Resource Ore Bundles-->
 		<!-- Processed Silver Ore Bundles-->
 		<!-- Processed Gold Ore Bundles-->
+		<!-- Processed Platinum Group Element Ore Bundles-->
 		<!-- New Recipe Bundles for Existing Resources -->
 		<!-- New Items and Resources -->
 		<!-- Chemistry Station Tools -->
@@ -225,7 +227,7 @@
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="125"/> 
 		<property name="EconomicValue" value="200"/>
-		<property name="EconomicBundleSize" value="10"/>
+		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
@@ -236,8 +238,8 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="125"/> 
-		<property name="EconomicValue" value="1"/>
-		<property name="EconomicBundleSize" value="10"/>
+		<property name="EconomicValue" value="300"/>
+		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="clay_grab"/>
 		<property name="SoundPlace" value="clay_place"/>
@@ -248,8 +250,8 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="125"/> 
-		<property name="EconomicValue" value="10"/>
-		<property name="EconomicBundleSize" value="10"/>
+		<property name="EconomicValue" value="500"/>
+		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
@@ -260,8 +262,8 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="125"/> 
-		<property name="EconomicValue" value="10"/>
-		<property name="EconomicBundleSize" value="10"/>
+		<property name="EconomicValue" value="1000"/>
+		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
@@ -272,12 +274,80 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="125"/> 
-		<property name="EconomicValue" value="10"/>
-		<property name="EconomicBundleSize" value="10"/>
+		<property name="EconomicValue" value="2000"/>
+		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
 	</item>
+	
+	<!-- Primary Platinum Group Element Ores -->
+	
+	<item name="resourceSperrylite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	
+	<item name="resourceBraggite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	
+	<item name="resourceLaurite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>	
+	
+	<item name="resourceIrarsite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	
+	<item name="resourceErlichmanite">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="125"/> 
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="nuggets_grab"/>
+		<property name="SoundPlace" value="nuggets_place"/>
+	</item>
+	
 	
 	<!-- Processed Resource Ore Bundles-->
 	
@@ -645,6 +715,98 @@
 		</property>
 	</item>
 	
+	<!-- Processed Platinum Group Element Ore Bundles-->
+	
+	<item name="processedSperrylite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="1,1,"/>
+		</property>
+	</item>
+	
+	<item name="processedBraggite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="1,1,"/>
+		</property>
+	</item>
+	
+	<item name="processedLaurite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="1,1,"/>
+		</property>
+	</item>
+	
+	<item name="processedIrarsite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="1,1,"/>
+		</property>
+	</item>
+	
+	<item name="processedErlichmanite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="30"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
+			<property name="Create_item_count" value="1,1,"/>
+		</property>
+	</item>
+		
 	<!-- New Recipe Bundles for Existing Resources -->
 		<!-- Adds recipes that use new components from this mod to make items that already existed in vanilla & 7DEFT -->
 		
