@@ -873,8 +873,8 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="10000"/> 
-		<property name="EconomicValue" value="25"/>
-		<property name="EconomicBundleSize" value="50"/>
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="10"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="gunpowder_grab"/>
 		<property name="SoundPlace" value="gunpowder_place"/>
@@ -885,8 +885,8 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="10000"/> 
-		<property name="EconomicValue" value="60"/>
-		<property name="EconomicBundleSize" value="50"/>
+		<property name="EconomicValue" value="1"/>
+		<property name="EconomicBundleSize" value="3"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="buckshot_grab"/>
 		<property name="SoundPlace" value="buckshot_place"/>
@@ -897,7 +897,7 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="2500"/> 
-		<property name="EconomicValue" value="15"/>
+		<property name="EconomicValue" value="4"/>
 		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="buckshot_grab"/>
@@ -914,14 +914,86 @@
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="buckshot_grab"/>
 		<property name="SoundPlace" value="buckshot_place"/>
-	</item>		
+	</item>	
+	<item name="resourceRefinedOsmium">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="36"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
+	<item name="resourceRefinedRuthenium">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="64"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
+	<item name="resourceRefinedPalladium">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="100"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
+	<item name="resourceRefinedPlatinum">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="115"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
+	<item name="resourceRefinedIridium">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="320"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
+	<item name="resourceRefinedRhodium">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="500"/> 
+		<property name="EconomicValue" value="570"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="buckshot_grab"/>
+		<property name="SoundPlace" value="buckshot_place"/>
+	</item>	
 	<item name="resourceSilverIngot">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="100"/> 
-		<property name="EconomicValue" value="5600"/>
+		<property name="EconomicValue" value="1500"/>
 		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="forgedmetal_grab"/>
@@ -933,7 +1005,7 @@
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="100"/> 
-		<property name="EconomicValue" value="36000"/>
+		<property name="EconomicValue" value="32250"/>
 		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="forgedmetal_grab"/>
@@ -946,7 +1018,7 @@
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="10000"/> 
 		<property name="EconomicValue" value="1"/>
-		<property name="EconomicBundleSize" value="1"/>
+		<property name="EconomicBundleSize" value="10"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="gunpowder_grab"/>
 		<property name="SoundPlace" value="gunpowder_place"/>
@@ -958,7 +1030,7 @@
 		<property name="Material" value="Mmetal"/>
 		<property name="Stacknumber" value="2000"/>		
 		<property name="EconomicValue" value="2"/>
-		<property name="EconomicBundleSize" value="1"/>
+		<property name="EconomicBundleSize" value="10"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="sand_grab"/>
 		<property name="SoundPlace" value="sand_place"/>
