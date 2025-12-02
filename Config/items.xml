@@ -376,8 +376,9 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceSulfur"/>
-			<property name="Create_item_count" value="800,25,80,"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedPalladium,
+				resourceRefinedPlatinum,resourceSulfur"/>
+			<property name="Create_item_count" value="800,90,1,2,80,"/>
 		</property>
 	</item>	
 	<item name="processedChalcocite">
@@ -411,7 +412,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
-			<property name="Create_item_count" value="1600,50,4,160,"/>
+			<property name="Create_item_count" value="1600,110,5,160,"/>
 		</property>
 	</item>
 	<item name="processedSmithsonite">
@@ -444,8 +445,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedZinc"/>
-			<property name="Create_item_count" value="30,600,"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceRefinedZinc"/>
+			<property name="Create_item_count" value="100,1,600,"/>
 		</property>
 	</item>
 	<item name="processedSphalerite">
@@ -478,8 +479,9 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedZinc,resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
-			<property name="Create_item_count" value="960,50,4,80,"/>
+			<property name="Create_item" value="resourceRefinedZinc,resourceRefinedSilver,resourceRefinedGold,
+				resourceRefinedPalladium,resourceRefinedPlatinum,resourceRefinedRhodium,resourceSulfur"/>
+			<property name="Create_item_count" value="960,110,3,2,2,1,80,"/>
 		</property>
 	</item>
 	<item name="processedHalite">
@@ -516,7 +518,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceScrapLead"/>
-			<property name="Create_item_count" value="20,250,"/>
+			<property name="Create_item_count" value="70,250,"/>
 		</property>
 	</item>
 	<item name="processedMiargyrite">
@@ -533,7 +535,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
-			<property name="Create_item_count" value="50,20,"/>
+			<property name="Create_item_count" value="170,20,"/>
 		</property>
 	</item>
 	<item name="processedPyrargyrite">
@@ -550,7 +552,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
-			<property name="Create_item_count" value="90,30,"/>
+			<property name="Create_item_count" value="300,30,"/>
 		</property>
 	</item>
 	<item name="processedProustite">
@@ -567,7 +569,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
-			<property name="Create_item_count" value="100,30,"/>
+			<property name="Create_item_count" value="325,30,"/>
 		</property>
 	</item>
 	<item name="processedCupropolybasite">
@@ -583,8 +585,9 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceSulfur"/>
-			<property name="Create_item_count" value="425,100,30,"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedPalladium,
+				resourceRefinedPlatinum,resourceSulfur"/>
+			<property name="Create_item_count" value="425,325,1,1,30,"/>
 		</property>
 	</item>
 	<item name="processedAcanthite">
@@ -600,8 +603,9 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
-			<property name="Create_item_count" value="200,10,75,"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceRefinedOsmium,
+				resourceRefinedRuthenium,resourceRefinedIridium,resourceSulfur"/>
+			<property name="Create_item_count" value="500,5,1,1,2,75,"/>
 		</property>
 	</item>
 	
@@ -637,8 +641,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedGold,resourceSulfur"/>
-			<property name="Create_item_count" value="5,30,"/>
+			<property name="Create_item" value="resourceRefinedGold,resourceRefinedRuthenium,resourceRefinedPlatinum,resourceSulfur"/>
+			<property name="Create_item_count" value="4,1,1,30,"/>
 		</property>
 	</item>
 	<item name="processedBlueClay">
@@ -654,8 +658,9 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="35,5,"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceRefinedOsmium,
+				resourceRefinedRuthenium,resourceRefinedPalladium,resourceRefinedPlatinum"/>
+			<property name="Create_item_count" value="10,5,3,5,1,1,"/>
 		</property>
 	</item>
 	<item name="processedPetzite">
@@ -671,8 +676,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="125,15,"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceRefinedPalladium"/>
+			<property name="Create_item_count" value="45,15,3,"/>
 		</property>
 	</item>
 	<item name="processedPlacerGold">
@@ -688,8 +693,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedGold"/>
-			<property name="Create_item_count" value="25,"/>
+			<property name="Create_item" value="resourceRefinedGold,resourceRefinedOsmium,resourceRefinedPalladium,resourceRefinedPlatinum"/>
+			<property name="Create_item_count" value="20,3,1,1,"/>
 		</property>
 	</item>
 	<item name="processedGoldQuartz">
@@ -706,12 +711,46 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedGold"/>
-			<property name="Create_item_count" value="35,"/>
+			<property name="Create_item_count" value="30,"/>
 		</property>
 	</item>
 	
 	<!-- Processed Platinum Group Element Ore Bundles-->
 	
+	<item name="processedErlichmanite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedOsmium,resourceRefinedRuthenium,resourceRefinedRhodium"/>
+			<property name="Create_item_count" value="15,2,1,"/>
+		</property>
+	</item>
+	<item name="processedBraggite">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="50"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedPalladium,resourceRefinedPlatinum"/>
+			<property name="Create_item_count" value="15,5,"/>
+		</property>
+	</item>	
 	<item name="processedSperrylite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
@@ -725,11 +764,11 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="1,1,"/>
+			<property name="Create_item" value="resourceRefinedPlatinum"/>
+			<property name="Create_item_count" value="30,"/>
 		</property>
 	</item>
-	<item name="processedBraggite">
+	<item name="processedIrarsite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -742,8 +781,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="1,1,"/>
+			<property name="Create_item" value="resourceRefinedRuthenium,resourceRefinedPlatinum,resourceRefinedIridium,resourceRefinedRhodium"/>
+			<property name="Create_item_count" value="3,3,15,1,"/>
 		</property>
 	</item>	
 	<item name="processedLaurite">
@@ -759,45 +798,11 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="1,1,"/>
+			<property name="Create_item" value="resourceRefinedRuthenium,resourceRefinedIridium,resourceRefinedRhodium"/>
+			<property name="Create_item_count" value="30,3,8,"/>
 		</property>
 	</item>	
-	<item name="processedIrarsite">
-		<property name="HoldType" value="45"/>
-		<property name="ItemTypeIcon" value="bundle"/>
-		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
-		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
-		<property name="Material" value="Miron_scrap"/>
-		<property name="Stacknumber" value="30"/>
-		<property name="Weight" value="0"/>
-		<property name="SellableToTrader" value="false"/>
-		<property name="Group" value="Special Items,Chemicals"/>
-		<property class="Action0">
-			<property name="Class" value="OpenBundle"/>
-			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="1,1,"/>
-		</property>
-	</item>	
-	<item name="processedErlichmanite">
-		<property name="HoldType" value="45"/>
-		<property name="ItemTypeIcon" value="bundle"/>
-		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
-		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
-		<property name="Material" value="Miron_scrap"/>
-		<property name="Stacknumber" value="30"/>
-		<property name="Weight" value="0"/>
-		<property name="SellableToTrader" value="false"/>
-		<property name="Group" value="Special Items,Chemicals"/>
-		<property class="Action0">
-			<property name="Class" value="OpenBundle"/>
-			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
-			<property name="Create_item_count" value="1,1,"/>
-		</property>
-	</item>
-		
+			
 	<!-- New Recipe Bundles for Existing Resources -->
 		<!-- Adds recipes that use new components from this mod to make items that already existed in vanilla & 7DEFT -->
 		
