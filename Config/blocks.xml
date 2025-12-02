@@ -16,8 +16,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".005" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".0025" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".002" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0015" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0009" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".02" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".015" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".0015" count="1" />
@@ -30,7 +30,12 @@
 		<drop event="Destroy" name="resourcePetzite" prob=".00055" count="1" />
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0003" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
-		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".0009" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0008" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".0004" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".00025" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrOreLead')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".035" count="1" />
@@ -39,8 +44,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00175" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".002" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".001" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".00125" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0006" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0009" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".03" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".01" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".002" count="1" />
@@ -53,7 +58,12 @@
 		<drop event="Destroy" name="resourcePetzite" prob=".00045" count="1" />
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
-		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00085" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".00085" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".0002" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrOreCoal')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".04" count="1" />
@@ -62,8 +72,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".002" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".002" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".001" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0006" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0006" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".0175" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".0125" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".0015" count="1" />
@@ -76,7 +86,12 @@
 		<drop event="Destroy" name="resourcePetzite" prob=".00045" count="1" />
 		<drop event="Destroy" name="resourcePlacerGold" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
-		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".002" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".0002" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrOrePotassiumNitrate')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".03" count="1" />
@@ -85,8 +100,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00175" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".00175" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".00075" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0006" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0006" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".0175" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".01" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".001" count="1" />
@@ -99,7 +114,12 @@
 		<drop event="Destroy" name="resourcePetzite" prob=".0004" count="1" />
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
-		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".0025" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".00015" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrOreOilDeposit')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".0375" count="1" />
@@ -108,8 +128,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00225" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".00225" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".001" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0006" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0006" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".0175" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".01" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".001" count="1" />
@@ -122,7 +142,12 @@
 		<drop event="Destroy" name="resourcePetzite" prob=".0004" count="1" />
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
-		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceHalite" prob=".0025" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".00020" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrStone')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".035" count="1" />
@@ -131,8 +156,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0125" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00175" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".00275" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".00075" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0009" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".02" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".0125" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".00125" count="1" />
@@ -146,6 +171,11 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0003" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00085" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".00075" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".0003" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrSand')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".02" count="1" />
@@ -154,8 +184,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".00125" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".0015" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0005" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0004" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0004" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".015" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".005" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".00075" count="1" />
@@ -166,9 +196,14 @@
 		<drop event="Destroy" name="resourceArsenopyrite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceBlueClay" prob=".002" count="1" />
 		<drop event="Destroy" name="resourcePetzite" prob=".00025" count="1" />
-		<drop event="Destroy" name="resourcePlacerGold" prob=".00020" count="1" />
-		<drop event="Destroy" name="resourceGoldQuartz" prob=".00020" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".00015" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrDirt')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".0175" count="1" />
@@ -177,8 +212,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".001" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".001" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0005" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0004" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0004" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".015" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".005" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".00075" count="1" />
@@ -189,9 +224,14 @@
 		<drop event="Destroy" name="resourceArsenopyrite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceBlueClay" prob=".002" count="1" />
 		<drop event="Destroy" name="resourcePetzite" prob=".00025" count="1" />
-		<drop event="Destroy" name="resourcePlacerGold" prob=".00020" count="1" />
+		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".00015" count="1" />		
 	</append>
 	<append xpath="/blocks/block[(@name='terrGravel')]">
 		<drop event="Destroy" name="resourceChalcopyrite" prob=".0175" count="1" />
@@ -200,8 +240,8 @@
 		<drop event="Destroy" name="resourceSphalerite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourceChalcopyriteMassive" prob=".001" count="1" />
 		<drop event="Destroy" name="resourceSmithsoniteMassive" prob=".001" count="1" />
-		<drop event="Destroy" name="resourceChalcociteMassive" prob=".0005" count="1" />
-		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceChalcociteMassive" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourceSphaleriteMassive" prob=".00045" count="1" />
 		<drop event="Destroy" name="resourceSilverGalena" prob=".015" count="1" />
 		<drop event="Destroy" name="resourceMiargyrite" prob=".0075" count="1" />
 		<drop event="Destroy" name="resourcePyrargyrite" prob=".001" count="1" />
@@ -215,9 +255,13 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".00035" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".0006" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourceIrarsite" prob=".00025" count="1" />
+		<drop event="Destroy" name="resourceLaurite" prob=".0002" count="1" />		
 	</append>
-	
-	
+		
 	<!-- Chemistry Station Tool Module -->
 		<!-- Added station tool module to the chemistry bench. The chemistry bench is where all the new ores are processed into elements and precious metals are refined. -->
 		<!-- Ore processing station tool is required to break down ore/minerals-->
@@ -229,8 +273,7 @@
 		<property name="RequiredTools" value="toolOreProcessing,toolChemistrySupplies,toolMetalRefining"/>
 		<property name="ToolNames" value="1,2,3"/>
 	</append>
-	
-	
+		
 	<!-- Vehicle Salvage Changes -->
 		<!-- Changed engine, battery, radiator, and acid from "drop on harvest" to "drop on destroy". -->
 		<!-- Changed vanilla drop rates on engine, battery, radiator, and acid. Easier to acquire in the early game and tones down the excessive drop rate at end game-->

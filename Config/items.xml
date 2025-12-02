@@ -294,8 +294,7 @@
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
-	</item>
-	
+	</item>	
 	<item name="resourceBraggite">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -307,8 +306,7 @@
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
-	</item>
-	
+	</item>	
 	<item name="resourceLaurite">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -320,8 +318,7 @@
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
-	</item>	
-	
+	</item>		
 	<item name="resourceIrarsite">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -333,8 +330,7 @@
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
-	</item>
-	
+	</item>	
 	<item name="resourceErlichmanite">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -347,8 +343,7 @@
 		<property name="SoundPickup" value="nuggets_grab"/>
 		<property name="SoundPlace" value="nuggets_place"/>
 	</item>
-	
-	
+		
 	<!-- Processed Resource Ore Bundles-->
 	
 	<item name="processedChalcopyrite">
@@ -734,7 +729,6 @@
 			<property name="Create_item_count" value="1,1,"/>
 		</property>
 	</item>
-	
 	<item name="processedBraggite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
@@ -751,8 +745,7 @@
 			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
 			<property name="Create_item_count" value="1,1,"/>
 		</property>
-	</item>
-	
+	</item>	
 	<item name="processedLaurite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
@@ -769,8 +762,7 @@
 			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
 			<property name="Create_item_count" value="1,1,"/>
 		</property>
-	</item>
-	
+	</item>	
 	<item name="processedIrarsite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
@@ -787,8 +779,7 @@
 			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold"/>
 			<property name="Create_item_count" value="1,1,"/>
 		</property>
-	</item>
-	
+	</item>	
 	<item name="processedErlichmanite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
