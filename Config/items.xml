@@ -352,7 +352,7 @@
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Miron_scrap"/>
-		<property name="Stacknumber" value="100"/>
+		<property name="Stacknumber" value="200"/>
 		<property name="Weight" value="0"/>
 		<property name="SellableToTrader" value="false"/>
 		<property name="Group" value="Special Items,Chemicals"/>
@@ -361,6 +361,40 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
 			<property name="Create_item_count" value="100,10,"/>
+		</property>
+	</item>
+	<item name="processedChalcopyrite5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="40"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
+			<property name="Create_item_count" value="500,50,"/>
+		</property>
+	</item>
+	<item name="processedChalcopyrite25">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="8"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
+			<property name="Create_item_count" value="2500,250,"/>
 		</property>
 	</item>
 	<item name="processedChalcopyriteMassive">
@@ -398,6 +432,23 @@
 			<property name="Create_item_count" value="200,20,"/>
 		</property>
 	</item>
+	<item name="processedChalcocite5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="15"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
+			<property name="Create_item_count" value="1000,100,"/>
+		</property>
+	</item>
 	<item name="processedChalcociteMassive">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
@@ -421,7 +472,7 @@
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Miron_scrap"/>
-		<property name="Stacknumber" value="100"/>
+		<property name="Stacknumber" value="200"/>
 		<property name="Weight" value="0"/>
 		<property name="SellableToTrader" value="false"/>
 		<property name="Group" value="Special Items,Chemicals"/>
@@ -430,6 +481,40 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc"/>
 			<property name="Create_item_count" value="75"/>
+		</property>
+	</item>
+	<item name="processedSmithsonite5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="40"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedZinc"/>
+			<property name="Create_item_count" value="375"/>
+		</property>
+	</item>
+	<item name="processedSmithsonite25">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="8"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedZinc"/>
+			<property name="Create_item_count" value="1875"/>
 		</property>
 	</item>
 	<item name="processedSmithsoniteMassive">
@@ -464,6 +549,23 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc,resourceSulfur"/>
 			<property name="Create_item_count" value="120,15,"/>
+		</property>
+	</item>
+	<item name="processedSphalerite5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="15"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedZinc,resourceSulfur"/>
+			<property name="Create_item_count" value="600,75,"/>
 		</property>
 	</item>
 	<item name="processedSphaleriteMassive">
@@ -510,7 +612,7 @@
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Miron_scrap"/>
-		<property name="Stacknumber" value="100"/>
+		<property name="Stacknumber" value="200"/>
 		<property name="Weight" value="0"/>
 		<property name="SellableToTrader" value="false"/>
 		<property name="Group" value="Special Items,Chemicals"/>
@@ -518,7 +620,41 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceScrapLead"/>
-			<property name="Create_item_count" value="45,250,"/>
+			<property name="Create_item_count" value="35,250,"/>
+		</property>
+	</item>
+	<item name="processedSilverGalena5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="40"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceScrapLead"/>
+			<property name="Create_item_count" value="175,1250,"/>
+		</property>
+	</item>
+	<item name="processedSilverGalena25">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="8"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceScrapLead"/>
+			<property name="Create_item_count" value="875,6250,"/>
 		</property>
 	</item>
 	<item name="processedMiargyrite">
@@ -536,6 +672,23 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
 			<property name="Create_item_count" value="115,20,"/>
+		</property>
+	</item>
+	<item name="processedMiargyrite5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="15"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedSilver,resourceSulfur"/>
+			<property name="Create_item_count" value="575,100,"/>
 		</property>
 	</item>
 	<item name="processedPyrargyrite">
@@ -626,6 +779,23 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedGold"/>
 			<property name="Create_item_count" value="150,1,"/>
+		</property>
+	</item>
+	<item name="processedPorphyry5">
+		<property name="HoldType" value="45"/>
+		<property name="ItemTypeIcon" value="bundle"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Miron_scrap"/>
+		<property name="Stacknumber" value="15"/>
+		<property name="Weight" value="0"/>
+		<property name="SellableToTrader" value="false"/>
+		<property name="Group" value="Special Items,Chemicals"/>
+		<property class="Action0">
+			<property name="Class" value="OpenBundle"/>
+			<property name="Delay" value="0"/>
+			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedGold"/>
+			<property name="Create_item_count" value="750,5,"/>
 		</property>
 	</item>
 	<item name="processedArsenopyrite">

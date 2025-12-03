@@ -63,6 +63,11 @@ resourceChalcopyriteDesc,"Chalcopyrite [D3CE1D]CuFeS₂[-]\n\nA [09FF00]common[-
 processedChalcopyrite,"[09FF00]Processed Chalcopyrite[-]"
 processedChalcopyriteDesc,"Chalcopyrite [D3CE1D]CuFeS₂[-]\n\nA [09FF00]common[-] mineral abundant in copper and sulfur.\n\nYields [B87333]copper[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
+processedChalcopyrite5,"[09FF00]Processed Chalcopyrite [-](x5)"
+processedChalcopyrite5Desc,"Chalcopyrite [D3CE1D]CuFeS₂[-]\n\nA [09FF00]common[-] mineral abundant in copper and sulfur.\n\nYields [B87333]copper[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedChalcopyrite25,"[09FF00]Processed Chalcopyrite [-](x25)"
+processedChalcopyrite25Desc,"Chalcopyrite [D3CE1D]CuFeS₂[-]\n\nA [09FF00]common[-] mineral abundant in copper and sulfur.\n\nYields [B87333]copper[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
 resourceChalcopyriteMassive,"[BB00FF]Massive Chalcopyrite[-]"
 resourceChalcopyriteMassiveDesc,"Silver-Bearing Chalcopyrite [D3CE1D]CuFeS₂(Ag)[-]\n\nA [BB00FF]rare[-] massive specimen of chalcopyrite with silver inclusions.\n\nYields [B87333]copper[-], [d8d8d8]silver[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedChalcopyriteMassive,"[BB00FF]Processed Massive Chalcopyrite[-]"
@@ -72,6 +77,9 @@ resourceChalcocite,"[1a5eff]Chalcocite[-]"
 resourceChalcociteDesc,"Chalcocite [D3CE1D]Cu₂S[-]\n\nAn [1a5eff]uncommon[-] mineral rich in copper and sulfur.\n\nYields [B87333]copper[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedChalcocite,"[1a5eff]Processed Chalcocite[-]"
 processedChalcociteDesc,"Chalcocite [D3CE1D]Cu₂S[-]\n\nAn [1a5eff]uncommon[-] mineral rich in copper and sulfur.\n\nYields [B87333]copper[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+processedChalcocite5,"[1a5eff]Processed Chalcocite [-](x5)"
+processedChalcocite5Desc,"Chalcocite [D3CE1D]Cu₂S[-]\n\nAn [1a5eff]uncommon[-] mineral rich in copper and sulfur.\n\nYields [B87333]copper[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceChalcociteMassive,"[FFD700]Massive Chalcocite[-]"
 resourceChalcociteMassiveDesc,"Electrum-Bearing Chalcocite [D3CE1D]Cu₂S(Au,Ag)[-]\n\nA [FFD700]scarce[-] massive specimen of chalcocite with electrum inclusions.\n\nYields [B87333]copper[-], [d8d8d8]silver[-], [d4af37]gold[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
@@ -83,6 +91,11 @@ resourceSmithsoniteDesc,"Smithsonite [D3CE1D]ZnCO₃[-]\n\nA [09FF00]common[-] m
 processedSmithsonite,"[09FF00]Processed Smithsonite[-]"
 processedSmithsoniteDesc,"Smithsonite [D3CE1D]ZnCO₃[-]\n\nA [09FF00]common[-] mineral abundant in zinc.\n\nYields [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
+processedSmithsonite5,"[09FF00]Processed Smithsonite [-](x5)"
+processedSmithsonite5Desc,"Smithsonite [D3CE1D]ZnCO₃[-]\n\nA [09FF00]common[-] mineral abundant in zinc.\n\nYields [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSmithsonite25,"[09FF00]Processed Smithsonite [-](x25)"
+processedSmithsoniteDesc25,"Smithsonite [D3CE1D]ZnCO₃[-]\n\nA [09FF00]common[-] mineral abundant in zinc.\n\nYields [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
 resourceSmithsoniteMassive,"[BB00FF]Massive Smithsonite[-]"
 resourceSmithsoniteMassiveDesc,"Silver-Bearing Smithsonite [D3CE1D]ZnCO₃(Ag)[-]\n\nA [BB00FF]rare[-] massive specimen of smithsonite with silver inclusions.\n\nYields [d8d8d8]silver[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedSmithsoniteMassive,"[BB00FF]Processed Massive Smithsonite[-]"
@@ -92,6 +105,9 @@ resourceSphalerite,"[1a5eff]Sphalerite[-]"
 resourceSphaleriteDesc,"Sphalerite [D3CE1D]ZnS[-]\n\nAn [1a5eff]uncommon[-] mineral rich in sulfur and zinc.\n\nYields [f1dd38]sulfur[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedSphalerite,"[1a5eff]Processed Sphalerite[-]"
 processedSphaleriteDesc,"Sphalerite [D3CE1D]ZnS[-]\n\nAn [1a5eff]uncommon[-] mineral rich in sulfur and zinc.\n\nYields [f1dd38]sulfur[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+processedSphalerite5,"[1a5eff]Processed Sphalerite [-](x5)"
+processedSphalerite5Desc,"Sphalerite [D3CE1D]ZnS[-]\n\nAn [1a5eff]uncommon[-] mineral rich in sulfur and zinc.\n\nYields [f1dd38]sulfur[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceSphaleriteMassive,"[FFD700]Massive Sphalerite[-]"
 resourceSphaleriteMassiveDesc,"Electrum-Bearing Sphalerite [D3CE1D]ZnS(Au,Ag)[-]\n\nA [FFD700]scarce[-] massive specimen of sphalerite with electrum inclusions.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], [f1dd38]sulfur[-], and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
@@ -103,10 +119,18 @@ resourceSilverGalenaDesc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09F
 processedSilverGalena,"[09FF00]Processed Silver Galena[-]"
 processedSilverGalenaDesc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
+processedSilverGalena5,"[09FF00]Processed Silver Galena [-](x5)"
+processedSilverGalena5Desc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSilverGalena25,"[09FF00]Processed Silver Galena [-](x25)"
+processedSilverGalena25Desc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
 resourceMiargyrite,"[1a5eff]Miargyrite[-]"
 resourceMiargyriteDesc,"Miargyrite [D3CE1D]AgSbS₂[-]\n\nAn [1a5eff]uncommon[-] silver and antimony sulfosalt from the family of ruby silver ores.\n\nYields [d8d8d8]silver[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedMiargyrite,"[1a5eff]Processed Miargyrite[-]"
 processedMiargyriteDesc,"Miargyrite [D3CE1D]AgSbS₂[-]\n\nAn [1a5eff]uncommon[-] silver and antimony sulfosalt from the family of ruby silver ores.\n\nYields [d8d8d8]silver[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+processedMiargyrite5,"[1a5eff]Processed Miargyrite [-](x5)"
+processedMiargyrite5Desc,"Miargyrite [D3CE1D]AgSbS₂[-]\n\nAn [1a5eff]uncommon[-] silver and antimony sulfosalt from the family of ruby silver ores.\n\nYields [d8d8d8]silver[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourcePyrargyrite,"[BB00FF]Pyrargyrite[-]"
 resourcePyrargyriteDesc,"Pyrargyrite [D3CE1D]Ag₃SbS₃[-]\n\nA [BB00FF]rare[-] silver and antimony sulfosalt from the family of ruby silver ores.\n\nYields [d8d8d8]silver[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
@@ -132,6 +156,9 @@ resourcePorphyry,"[1a5eff]Porphyry Copper-Gold Ore[-]"
 resourcePorphyryDesc,"Granite [D3CE1D](CuFeS₂)(Au₂S)[-]\n\nAn [1a5eff]uncommon[-] porphyritic piece of granite with traces of precious metals.\n\nYields [B87333]copper[-] and [d4af37]gold[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedPorphyry,"[1a5eff]Processed Porphyry[-]"
 processedPorphyryDesc,"Granite [D3CE1D](CuFeS₂)(Au₂S)[-]\n\nAn [1a5eff]uncommon[-] porphyritic piece of granite with traces of precious metals.\n\nYields [B87333]copper[-] and [d4af37]gold[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+processedPorphyry5,"[1a5eff]Processed Porphyry [-](x5)"
+processedPorphyry5Desc,"Granite [D3CE1D](CuFeS₂)(Au₂S)[-]\n\nAn [1a5eff]uncommon[-] porphyritic piece of granite with traces of precious metals.\n\nYields [B87333]copper[-] and [d4af37]gold[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceArsenopyrite,"[BB00FF]Arsenopyrite[-]"
 resourceArsenopyriteDesc,"Arsenopyrite [D3CE1D]FeAsS(Au)[-]\n\nA [BB00FF]rare[-] arsenic and iron sulfide mineral streaked with gold.\n\nYields [d4af37]gold[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
