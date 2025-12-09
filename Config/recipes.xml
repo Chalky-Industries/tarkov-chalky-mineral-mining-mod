@@ -165,8 +165,8 @@
 	<!-- New Recipes for Existing Items -->
 	
 	<recipe name="processedBrass" count="1" craft_area="chemistryStation" craft_time="10" craft_tool="toolMetalRefining" tags="chemStationCrafting">
-		<ingredient name="resourceRefinedCopper" count="700"/>
-		<ingredient name="resourceRefinedZinc" count="300"/>
+		<ingredient name="resourceRefinedCopper" count="800"/>
+		<ingredient name="resourceRefinedZinc" count="340"/>
 	</recipe>
 	<recipe name="processedSulfuricAcid_Sulfur" count="1" craft_area="chemistryStation" craft_time="55" tags="chemStationCrafting">
 		<ingredient name="resourceSulfur" count="75"/>
@@ -181,10 +181,28 @@
 	<!-- New Item Recipes -->
 	
 	<recipe name="resourceSilverIngot" count="1" craft_area="chemistryStation" craft_time="60" craft_tool="toolMetalRefining" tags="chemStationCrafting">
-		<ingredient name="resourceRefinedSilver" count="317"/>
+		<ingredient name="resourceRefinedSilver" count="3170"/>
 	</recipe>
 	<recipe name="resourceGoldIngot" count="1" craft_area="chemistryStation" craft_time="180" craft_tool="toolMetalRefining" tags="chemStationCrafting">
 		<ingredient name="resourceRefinedGold" count="102"/>
+	</recipe>	
+	<recipe name="resourceOsmiumIngot" count="1" craft_area="chemistryStation" craft_time="70" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedOsmium" count="102"/>
+	</recipe>
+	<recipe name="resourceRutheniumIngot" count="1" craft_area="chemistryStation" craft_time="85" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedRuthenium" count="102"/>
+	</recipe>
+	<recipe name="resourcePalladiumIngot" count="1" craft_area="chemistryStation" craft_time="100" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedPalladium" count="102"/>
+	</recipe>
+	<recipe name="resourcePlatinumIngot" count="1" craft_area="chemistryStation" craft_time="110" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedPlatinum" count="102"/>
+	</recipe>
+	<recipe name="resourceIridiumIngot" count="1" craft_area="chemistryStation" craft_time="225" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedIridium" count="102"/>
+	</recipe>
+	<recipe name="resourceRhodiumIngot" count="1" craft_area="chemistryStation" craft_time="300" craft_tool="toolMetalRefining" tags="chemStationCrafting">
+		<ingredient name="resourceRefinedRhodium" count="102"/>
 	</recipe>	
 	<recipe name="resourceActivatedCarbon" count="20" craft_area="chemistryStation" craft_time="10" tags="chemStationCrafting">
 		<ingredient name="resourceCoal" count="300"/>

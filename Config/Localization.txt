@@ -12,7 +12,7 @@ toolMetalRefining,"Metal Refining Tools"
 toolMetalRefiningDesc,"[D3CE1D]Chemistry Station Tool[-]\n\nSmelting equipment for non-ferrous metals. Includes trader approved molds for precious metals.\n\nSold at a steep discount by [4FBE28]all traders[-] in the hopes that you survive long enough to make them rich.\n\n[d4af37]Gold Ingot Mold[-]: [D3CE1D]10 grams[-]\n[d8d8d8]Silver Ingot Mold[-]: [D3CE1D]31.1 grams[-]"
 
 processedBrass,"Brass (x1000)"
-processedBrassDesc,"A pile of freshly smelted of cartridge [B5A642]brass[-]. This highly ductile alloy is a [B87333]70[-]/[bac4c8]30[-] mix.\n\n\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+processedBrassDesc,"A pile of freshly smelted of cartridge [B5A642]brass[-].\nThis highly ductile alloy is a [B87333]70[-]/[bac4c8]30[-] mix of [B87333]copper[-] and [bac4c8]brass[-].\n\n\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
 processedSulfuricAcid_Sulfur,"H₂SO₄ (×500)"
 processedSulfuricAcid_SulfurDesc,"Create sulfuric acid by burning sulfur with potassium nitrate in the presence of steam.\n\nKNO₃ oxidizes the sulfur to SO₃ which combines with H₂O to make H₂SO₄.\n\nWorkstation: [D3CE1D]Chemistry Station[-]"
@@ -27,16 +27,34 @@ resourceSmokelessCoal,"Smokeless Coal"
 resourceSmokelessCoalDesc,"Anthracite coal that has been crushed, cleaned, and formed into large briquettes.\n\nGuaranteed to burn for 30 minutes.\n\nWorkstation: [D3CE1D]Chemistry Station[-]"
 
 resourceRefinedZinc,"Refined [bac4c8]Zinc[-]"
-resourceRefinedZincDesc,"Small bits of fine [bac4c8]zinc[-] obtained by processing ore.\n\nAlloyed with [B87333]copper[-] at a [B87333]70[-]/[bac4c8]30[-] ratio to create [B5A642]brass[-] at the chemistry station."
+resourceRefinedZincDesc,"Small bits of fine [bac4c8]zinc[-] obtained by processing ore.\n\nAlloyed with [B87333]copper[-] at the chemistry station to create [B5A642]brass[-]."
 
 resourceRefinedCopper,"Refined [B87333]Copper[-]"
-resourceRefinedCopperDesc,"Small pieces of fine [B87333]copper[-] obtained by processing ore.\n\nAlloyed with [bac4c8]zinc[-] at a [B87333]70[-]/[bac4c8]30[-] ratio to create [B5A642]brass[-] at the chemistry station."
+resourceRefinedCopperDesc,"Small pieces of fine [B87333]copper[-] obtained by processing ore.\n\nAlloyed with [bac4c8]zinc[-] at the chemistry station to create [B5A642]brass[-]."
 
 resourceRefinedSilver,"Refined [d8d8d8]Silver[-]"
-resourceRefinedSilverDesc,"[4FBE28]1 Unit[-] = [D3CE1D].1 gram[-]\n\nBeads of fine [d8d8d8]silver[-] obtained by processing ore.\n\nTraders will pay [4FBE28]20%[-] more for [d8d8d8]silver[-] smelted into ingots."
+resourceRefinedSilverDesc,"Beads of fine [d8d8d8]silver[-] obtained by processing ore.\n\nTraders will pay [4FBE28]7.5%[-] more for [d8d8d8]silver[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedGold,"Refined [d4af37]Gold[-]"
-resourceRefinedGoldDesc,"[4FBE28]1 Unit[-] = [D3CE1D].1 gram[-]\n\nGrains of fine [d4af37]gold[-] obtained by processing ore.\n\nTraders will pay [4FBE28]20%[-] more for [d4af37]gold[-] smelted into ingots."
+resourceRefinedGoldDesc,"Grains of fine [d4af37]gold[-] obtained by processing ore.\n\nTraders will pay [4FBE28]7.5%[-] more for [d4af37]gold[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+
+resourceRefinedOsmium,"Refined [9090A3]Osmium[-]"
+resourceRefinedOsmiumDesc,"Pieces of fine [9090A3]osmium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [9090A3]osmium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+
+resourceRefinedRuthenium,"Refined [c9cbc8]Ruthenium[-]"
+resourceRefinedRutheniumDesc,"Pieces of fine [c9cbc8]ruthenium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [c9cbc8]ruthenium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+
+resourceRefinedPalladium,"Refined [b1b1b1]Palladium[-]"
+resourceRefinedPalladiumDesc,"Pieces of fine [b1b1b1]palladium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]10%[-] more for [b1b1b1]palladium[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+
+resourceRefinedPlatinum,"Refined [e5e4e2]Platinum[-]"
+resourceRefinedPlatinumDesc,"Pieces of fine [e5e4e2]platinum[-] obtained by processing ore.\n\nTraders will pay [4FBE28]10%[-] more for [e5e4e2]platinum[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+
+resourceRefinedIridium,"Refined [b2a4a6]Iridium[-]"
+resourceRefinedIridiumDesc,"Pieces of fine [b2a4a6]iridium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [b2a4a6]iridium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+
+resourceRefinedRhodium,"Refined [d1d7d7]Rhodium[-]"
+resourceRefinedRhodiumDesc,"Pieces of fine [d1d7d7]rhodium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [d1d7d7]rhodium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceSulfur,"Refined [f1dd38]Sulfur[-]"
 resourceSulfurDesc,"Elemental [f1dd38]sulfur[-] obtained by processing ore.\n\nUsed to create [4FBE28]sulfuric acid[-](H₂SO₄) by burning potassium nitrate with sulfur in the presence of steam."
@@ -45,17 +63,35 @@ resourceScrapBrass,"Brass"
 resourceScrapBrassDesc,"Cartridge [B5A642]brass[-] recycled from existing metal or created at the chemistry station.\n\nUsed at the forge to create bullet casings.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
 resourceSilverIngot,"[d8d8d8]Silver Ingot[-]"
-resourceSilverIngotDesc," A small bar of fine [d8d8d8]silver[-] that weighs 1 troy ounce(31.1g).\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+resourceSilverIngotDesc," A small bar of fine [d8d8d8]silver[-] that weighs 10 troy ounce(311g).\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
 resourceGoldIngot,"[d4af37]Gold Ingot[-]"
 resourceGoldIngotDesc,"A small bar of fine [d4af37]gold[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
+resourceOsmiumIngot,"[9090A3]Osmium Ingot[-]"
+resourceOsmiumIngotDesc,"A small sintered bar of fine [9090A3]osmium[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+
+resourceRutheniumIngot,"[c9cbc8]Ruthenium Ingot[-]"
+resourceRutheniumIngotDesc,"A small sintered bar of fine [c9cbc8]ruthenium[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+
+resourcePalladiumIngot,"[b1b1b1]Palladium Ingot[-]"
+resourcePalladiumIngotDesc,"A small bar of fine [b1b1b1]palladium[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+
+resourcePlatinumIngot,"[e5e4e2]Platinum Ingot[-]"
+resourcePlatinumIngotDesc,"A small bar of fine [e5e4e2]platinum[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+
+resourceIridiumIngot,"[a8a7a5]Iridium Ingot[-]"
+resourceIridiumIngotDesc,"A small sintered bar of fine [a8a7a5]iridium[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+
+resourceRhodiumIngot,"[d1d7d7]Rhodium Ingot[-]"
+resourceRhodiumIngotDesc,"A small sintered bar of fine [d1d7d7]rhodium[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+
 streamerGoutLord,"[BB00FF]The Gout Lord[-]"
 streamerGoutLordDesc,"A damp plushie that smells faintly of [ffdc65]urine[-]. Whoever left this in the toilet likely lost his plushie during one of his many trips to the bathroom.\n\nProbably worth a few roubles at the trader." 
 
-resourceHalite,"[09FF00]Halite[-]"	
-resourceHaliteDesc,"Halite [D3CE1D]NaCl[-]\n\nBetter known as [09FF00]common[-] rock salt, halite is the mineral form of sodium chloride.\n\nThis salt is impure and needs refining.\n\nWorkstation: [D3CE1D]Chemistry Station[-]"
-processedHalite,"[09FF00]Processed Halite[-]"
+resourceHalite,"[1a5eff]Halite[-]"	
+resourceHaliteDesc,"Halite [D3CE1D]NaCl[-]\n\nBetter known as rock salt, halite is the mineral form of sodium chloride.\n\nThis salt is impure and needs refining.\n\nWorkstation: [D3CE1D]Chemistry Station[-]"
+processedHalite,"[[1a5eff]Processed Halite[-]"
 processedHaliteDesc,"Salt that has been purified and packaged at the chemistry station."
 
 resourceChalcopyrite,"[09FF00]Chalcopyrite[-]"
@@ -97,9 +133,9 @@ processedSmithsonite25,"[09FF00]Processed Smithsonite [-](x25)"
 processedSmithsoniteDesc25,"Smithsonite [D3CE1D]ZnCO₃[-]\n\nA [09FF00]common[-] mineral abundant in zinc.\n\nYields [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceSmithsoniteMassive,"[BB00FF]Massive Smithsonite[-]"
-resourceSmithsoniteMassiveDesc,"Silver-Bearing Smithsonite [D3CE1D]ZnCO₃(Ag)[-]\n\nA [BB00FF]rare[-] massive specimen of smithsonite with silver inclusions.\n\nYields [d8d8d8]silver[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+resourceSmithsoniteMassiveDesc,"Silver-Bearing Smithsonite [D3CE1D]ZnCO₃(Ag)[-]\n\nA [BB00FF]rare[-] massive specimen of smithsonite with electrum inclusions.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedSmithsoniteMassive,"[BB00FF]Processed Massive Smithsonite[-]"
-processedSmithsoniteMassiveDesc,"Silver-Bearing Smithsonite [D3CE1D]ZnCO₃(Ag)[-]\n\nA [BB00FF]rare[-] massive specimen of smithsonite with silver inclusions.\n\nYields [d8d8d8]silver[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSmithsoniteMassiveDesc,"Silver-Bearing Smithsonite [D3CE1D]ZnCO₃(Ag)[-]\n\nA [BB00FF]rare[-] massive specimen of smithsonite with electrum inclusions.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceSphalerite,"[1a5eff]Sphalerite[-]"
 resourceSphaleriteDesc,"Sphalerite [D3CE1D]ZnS[-]\n\nAn [1a5eff]uncommon[-] mineral rich in sulfur and zinc.\n\nYields [f1dd38]sulfur[-] and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"

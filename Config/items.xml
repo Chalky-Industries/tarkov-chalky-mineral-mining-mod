@@ -360,7 +360,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
-			<property name="Create_item_count" value="100,10,"/>
+			<property name="Create_item_count" value="115,10,"/>
 		</property>
 	</item>
 	<item name="processedChalcopyrite5">
@@ -377,7 +377,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
-			<property name="Create_item_count" value="500,50,"/>
+			<property name="Create_item_count" value="575,50,"/>
 		</property>
 	</item>
 	<item name="processedChalcopyrite25">
@@ -394,7 +394,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
-			<property name="Create_item_count" value="2500,250,"/>
+			<property name="Create_item_count" value="2875,250,"/>
 		</property>
 	</item>
 	<item name="processedChalcopyriteMassive">
@@ -412,7 +412,7 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedPalladium,
 				resourceRefinedPlatinum,resourceSulfur"/>
-			<property name="Create_item_count" value="800,60,1,2,80,"/>
+			<property name="Create_item_count" value="920,60,1,2,80,"/>
 		</property>
 	</item>	
 	<item name="processedChalcocite">
@@ -429,7 +429,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
-			<property name="Create_item_count" value="200,20,"/>
+			<property name="Create_item_count" value="230,20,"/>
 		</property>
 	</item>
 	<item name="processedChalcocite5">
@@ -446,7 +446,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceSulfur"/>
-			<property name="Create_item_count" value="1000,100,"/>
+			<property name="Create_item_count" value="1150,100,"/>
 		</property>
 	</item>
 	<item name="processedChalcociteMassive">
@@ -463,7 +463,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedGold,resourceSulfur"/>
-			<property name="Create_item_count" value="1600,70,5,160,"/>
+			<property name="Create_item_count" value="1840,70,5,160,"/>
 		</property>
 	</item>
 	<item name="processedSmithsonite">
@@ -480,7 +480,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc"/>
-			<property name="Create_item_count" value="75"/>
+			<property name="Create_item_count" value="85"/>
 		</property>
 	</item>
 	<item name="processedSmithsonite5">
@@ -497,7 +497,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc"/>
-			<property name="Create_item_count" value="375"/>
+			<property name="Create_item_count" value="425"/>
 		</property>
 	</item>
 	<item name="processedSmithsonite25">
@@ -514,7 +514,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc"/>
-			<property name="Create_item_count" value="1875"/>
+			<property name="Create_item_count" value="2125"/>
 		</property>
 	</item>
 	<item name="processedSmithsoniteMassive">
@@ -531,7 +531,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceRefinedZinc"/>
-			<property name="Create_item_count" value="40,2,600,"/>
+			<property name="Create_item_count" value="40,2,700,"/>
 		</property>
 	</item>
 	<item name="processedSphalerite">
@@ -548,7 +548,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc,resourceSulfur"/>
-			<property name="Create_item_count" value="120,15,"/>
+			<property name="Create_item_count" value="140,15,"/>
 		</property>
 	</item>
 	<item name="processedSphalerite5">
@@ -565,7 +565,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc,resourceSulfur"/>
-			<property name="Create_item_count" value="600,75,"/>
+			<property name="Create_item_count" value="700,75,"/>
 		</property>
 	</item>
 	<item name="processedSphaleriteMassive">
@@ -583,7 +583,7 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedZinc,resourceRefinedSilver,resourceRefinedGold,
 				resourceRefinedPalladium,resourceRefinedPlatinum,resourceRefinedRhodium,resourceSulfur"/>
-			<property name="Create_item_count" value="960,75,3,2,2,1,80,"/>
+			<property name="Create_item_count" value="1100,75,3,2,2,1,80,"/>
 		</property>
 	</item>
 	<item name="processedHalite">
@@ -740,7 +740,7 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedSilver,resourceRefinedPalladium,
 				resourceRefinedPlatinum,resourceSulfur"/>
-			<property name="Create_item_count" value="425,215,1,1,30,"/>
+			<property name="Create_item_count" value="500,215,1,3,30,"/>
 		</property>
 	</item>
 	<item name="processedAcanthite">
@@ -778,7 +778,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedGold"/>
-			<property name="Create_item_count" value="150,1,"/>
+			<property name="Create_item_count" value="175,1,"/>
 		</property>
 	</item>
 	<item name="processedPorphyry5">
@@ -795,7 +795,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedCopper,resourceRefinedGold"/>
-			<property name="Create_item_count" value="750,5,"/>
+			<property name="Create_item_count" value="875,5,"/>
 		</property>
 	</item>
 	<item name="processedArsenopyrite">
@@ -830,7 +830,7 @@
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedSilver,resourceRefinedGold,resourceRefinedOsmium,
 				resourceRefinedRuthenium,resourceRefinedPalladium,resourceRefinedPlatinum"/>
-			<property name="Create_item_count" value="10,5,3,5,1,1,"/>
+			<property name="Create_item_count" value="10,5,3,5,1,2,"/>
 		</property>
 	</item>
 	<item name="processedPetzite">
@@ -864,7 +864,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedGold,resourceRefinedOsmium,resourceRefinedPalladium,resourceRefinedPlatinum"/>
-			<property name="Create_item_count" value="20,3,1,1,"/>
+			<property name="Create_item_count" value="20,3,3,4,"/>
 		</property>
 	</item>
 	<item name="processedGoldQuartz">
@@ -901,7 +901,7 @@
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
 			<property name="Create_item" value="resourceRefinedOsmium,resourceRefinedRuthenium,resourceRefinedRhodium"/>
-			<property name="Create_item_count" value="15,2,1,"/>
+			<property name="Create_item_count" value="15,3,2,"/>
 		</property>
 	</item>
 	<item name="processedBraggite">
@@ -1158,8 +1158,8 @@
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
-		<property name="Stacknumber" value="100"/> 
-		<property name="EconomicValue" value="2000"/>
+		<property name="Stacknumber" value="25"/> 
+		<property name="EconomicValue" value="20000"/>
 		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="forgedmetal_grab"/>
@@ -1170,13 +1170,85 @@
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
 		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
 		<property name="Material" value="Mmetal"/>
-		<property name="Stacknumber" value="100"/> 
+		<property name="Stacknumber" value="50"/> 
 		<property name="EconomicValue" value="32250"/>
 		<property name="EconomicBundleSize" value="1"/>
 		<property name="Group" value="Resources,Chemicals"/>
 		<property name="SoundPickup" value="forgedmetal_grab"/>
 		<property name="SoundPlace" value="forgedmetal_place"/>
-	</item>				
+	</item>
+	<item name="resourceOsmiumIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="50"/> 
+		<property name="EconomicValue" value="4200"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>
+	<item name="resourceRutheniumIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="50"/> 
+		<property name="EconomicValue" value="7350"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>	
+	<item name="resourcePalladiumIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="50"/> 
+		<property name="EconomicValue" value="11000"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>
+	<item name="resourcePlatinumIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="50"/> 
+		<property name="EconomicValue" value="12650"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>
+	<item name="resourceIridiumIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="50"/> 
+		<property name="EconomicValue" value="36800"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>
+	<item name="resourceRhodiumIngot">
+		<property name="HoldType" value="45"/>
+		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
+		<property name="DropMeshfile" value="@:Other/Items/Misc/sack_droppedPrefab.prefab"/>
+		<property name="Material" value="Mmetal"/>
+		<property name="Stacknumber" value="50"/> 
+		<property name="EconomicValue" value="65550"/>
+		<property name="EconomicBundleSize" value="1"/>
+		<property name="Group" value="Resources,Chemicals"/>
+		<property name="SoundPickup" value="forgedmetal_grab"/>
+		<property name="SoundPlace" value="forgedmetal_place"/>
+	</item>
 	<item name="resourceSulfur">
 		<property name="HoldType" value="45"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
