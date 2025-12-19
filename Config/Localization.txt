@@ -9,10 +9,10 @@ toolChemistrySupplies,"Chemistry Supplies"
 toolChemistrySuppliesDesc,"[D3CE1D]Chemistry Station Tool[-]\n\nA variety of reactants, reagents, and solvents that improve chemistry crafting times.\n\nSold by [4FBE28]all traders[-]."
 
 toolMetalRefining,"Metal Refining Tools"
-toolMetalRefiningDesc,"[D3CE1D]Chemistry Station Tool[-]\n\nSmelting equipment for non-ferrous metals. Includes trader approved molds for precious metals.\n\nSold at a steep discount by [4FBE28]all traders[-] in the hopes that you survive long enough to make them rich.\n\n[d4af37]Gold Ingot Mold[-]: [D3CE1D]10 grams[-]\n[d8d8d8]Silver Ingot Mold[-]: [D3CE1D]31.1 grams[-]"
+toolMetalRefiningDesc,"[D3CE1D]Chemistry Station Tool[-]\n\nSmelting equipment for non-ferrous metals. Includes trader approved molds for precious metals.\n\nSold by [4FBE28]all traders[-].\n\n[d8d8d8]Silver Ingot Mold[-]: [D3CE1D]10 troy oz(311 g)[-]\n[d4af37]Gold Ingot Mold[-]: [D3CE1D]10 grams[-]\n[c9cbc8]P[-][e5e4e2]G[-][b1b1b1]M[-][d1d7d7]s[-][e5e4e2] Ingot Molds[-]: [D3CE1D]10 grams[-]"
 
 processedBrass,"Brass (x1000)"
-processedBrassDesc,"A pile of freshly smelted of cartridge [B5A642]brass[-].\nThis highly ductile alloy is a [B87333]70[-]/[bac4c8]30[-] mix of [B87333]copper[-] and [bac4c8]brass[-].\n\n\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+processedBrassDesc,"A pile of freshly smelted of cartridge [B5A642]brass[-].\n\nThis highly ductile alloy is a [B87333]70[-]/[bac4c8]30[-] mix of [B87333]copper[-] and [bac4c8]brass[-].\n\n\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
 processedSulfuricAcid_Sulfur,"H₂SO₄ (×500)"
 processedSulfuricAcid_SulfurDesc,"Create sulfuric acid by burning sulfur with potassium nitrate in the presence of steam.\n\nKNO₃ oxidizes the sulfur to SO₃ which combines with H₂O to make H₂SO₄.\n\nWorkstation: [D3CE1D]Chemistry Station[-]"
@@ -39,31 +39,31 @@ resourceRefinedGold,"Refined [d4af37]Gold[-]"
 resourceRefinedGoldDesc,"Grains of fine [d4af37]gold[-] obtained by processing ore.\n\nTraders will pay [4FBE28]7.5%[-] more for [d4af37]gold[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedOsmium,"Refined [9090A3]Osmium[-]"
-resourceRefinedOsmiumDesc,"Pieces of fine [9090A3]osmium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [9090A3]osmium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+resourceRefinedOsmiumDesc,"Small pieces of fine [9090A3]osmium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [9090A3]osmium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedRuthenium,"Refined [c9cbc8]Ruthenium[-]"
-resourceRefinedRutheniumDesc,"Pieces of fine [c9cbc8]ruthenium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [c9cbc8]ruthenium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+resourceRefinedRutheniumDesc,"Small pieces of fine [c9cbc8]ruthenium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [c9cbc8]ruthenium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedPalladium,"Refined [b1b1b1]Palladium[-]"
-resourceRefinedPalladiumDesc,"Pieces of fine [b1b1b1]palladium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]10%[-] more for [b1b1b1]palladium[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+resourceRefinedPalladiumDesc,"Small pieces of fine [b1b1b1]palladium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]10%[-] more for [b1b1b1]palladium[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedPlatinum,"Refined [e5e4e2]Platinum[-]"
-resourceRefinedPlatinumDesc,"Pieces of fine [e5e4e2]platinum[-] obtained by processing ore.\n\nTraders will pay [4FBE28]10%[-] more for [e5e4e2]platinum[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+resourceRefinedPlatinumDesc,"Small pieces of fine [e5e4e2]platinum[-] obtained by processing ore.\n\nTraders will pay [4FBE28]10%[-] more for [e5e4e2]platinum[-] smelted into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedIridium,"Refined [b2a4a6]Iridium[-]"
-resourceRefinedIridiumDesc,"Pieces of fine [b2a4a6]iridium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [b2a4a6]iridium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+resourceRefinedIridiumDesc,"Small pieces of fine [b2a4a6]iridium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [b2a4a6]iridium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedRhodium,"Refined [d1d7d7]Rhodium[-]"
-resourceRefinedRhodiumDesc,"Pieces of fine [d1d7d7]rhodium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [d1d7d7]rhodium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
+resourceRefinedRhodiumDesc,"Small pieces of fine [d1d7d7]rhodium[-] obtained by processing ore.\n\nTraders will pay [4FBE28]15%[-] more for [d1d7d7]rhodium[-] sintered into ingots.\n\n1 Unit = [4FBE28].1 gram[-]"
 
 resourceRefinedSulfur,"Refined [f1dd38]Sulfur[-]"
 resourceRefinedSulfurDesc,"Elemental [f1dd38]sulfur[-] obtained by processing ore.\n\nUsed to create [4FBE28]sulfuric acid[-](H₂SO₄) by burning potassium nitrate with sulfur in the presence of steam."
 
 resourceScrapBrass,"Brass"
-resourceScrapBrassDesc,"Cartridge [B5A642]brass[-] recycled from existing metal or created at the chemistry station.\n\nUsed at the forge to create bullet casings.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+resourceScrapBrassDesc,"Cartridge [B5A642]brass[-] recycled from existing metal or created at the chemistry station.\n\nUsed at the forge to create bullet casings.\n\n\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
 resourceSilverIngot,"[d8d8d8]Silver Ingot[-]"
-resourceSilverIngotDesc," A small bar of fine [d8d8d8]silver[-] that weighs 10 troy ounce(311g).\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
+resourceSilverIngotDesc," A bar of fine [d8d8d8]silver[-] that weighs 10 troy ounces(311g).\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
 
 resourceGoldIngot,"[d4af37]Gold Ingot[-]"
 resourceGoldIngotDesc,"A small bar of fine [d4af37]gold[-] that weighs 10 grams.\n\nTraders will pay a [4FBE28]premium[-] rate for precious metal ingots.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Metal Refining Tools[-]"
@@ -91,7 +91,7 @@ streamerGoutLordDesc,"A damp plushie that smells faintly of [ffdc65]urine[-]. Wh
 
 resourceHalite,"[1a5eff]Halite[-]"	
 resourceHaliteDesc,"Halite [D3CE1D]NaCl[-]\n\nBetter known as rock salt, halite is the mineral form of sodium chloride.\n\nThis salt is impure and needs refining.\n\nWorkstation: [D3CE1D]Chemistry Station[-]"
-processedHalite,"[[1a5eff]Processed Halite[-]"
+processedHalite,"[1a5eff]Processed Halite[-]"
 processedHaliteDesc,"Salt that has been purified and packaged at the chemistry station."
 
 resourceChalcopyrite,"[09FF00]Chalcopyrite[-]"
@@ -151,14 +151,14 @@ processedSphaleriteMassive,"[FFD700]Processed Massive Sphalerite[-]"
 processedSphaleriteMassiveDesc,"Electrum-Bearing Sphalerite [D3CE1D]ZnS(Au,Ag)[-]\n\nA [FFD700]scarce[-] massive specimen of sphalerite with electrum inclusions.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], [f1dd38]sulfur[-], and [bac4c8]zinc[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceSilverGalena,"[09FF00]Silver-Bearing Galena[-]"
-resourceSilverGalenaDesc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+resourceSilverGalenaDesc,"Silver Galena [D3CE1D]PbS with Ag[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide inclusions.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedSilverGalena,"[09FF00]Processed Silver Galena[-]"
-processedSilverGalenaDesc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSilverGalenaDesc,"Silver Galena [D3CE1D]PbS with Ag[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide inclusions.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 processedSilverGalena5,"[09FF00]Processed Silver Galena [-](x5)"
-processedSilverGalena5Desc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSilverGalena5Desc,"Silver Galena [D3CE1D]PbS with Ag[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide inclusions.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedSilverGalena25,"[09FF00]Processed Silver Galena [-](x25)"
-processedSilverGalena25Desc,"Silver-Bearing Galena [D3CE1D]PbS(Ag₂S)[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide as an impurity.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSilverGalena25Desc,"Silver Galena [D3CE1D]PbS with Ag[-]\n\nA [09FF00]common[-] lead sulfide mineral that contains silver sulfide inclusions.\n\nYields [d8d8d8]silver[-] and [6c6c6a]lead[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceMiargyrite,"[1a5eff]Miargyrite[-]"
 resourceMiargyriteDesc,"Miargyrite [D3CE1D]AgSbS₂[-]\n\nAn [1a5eff]uncommon[-] silver and antimony sulfosalt from the family of ruby silver ores.\n\nYields [d8d8d8]silver[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
@@ -179,14 +179,14 @@ processedProustite,"[BB00FF]Processed Proustite[-]"
 processedProustiteDesc,"Proustite [D3CE1D]Ag₃AsS₃[-]\n\nA [BB00FF]rare[-] silver and arsenic sulfosalt from the family of ruby silver ores.\n\nYields [d8d8d8]silver[-] and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceCupropolybasite,"[BB00FF]Cupropolybasite[-]"
-resourceCupropolybasiteDesc,"Cupropolybasite [D3CE1D][Cu₆Sb₂S₇][Ag₉CuS₄][-]\n\nA [BB00FF]rare[-] variation of copper-rich polybasite. This mineral is a copper, silver, and antimony sulfosalt from the family of ruby silver ores.\n\nYields [B87333]copper[-], [d8d8d8]silver[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+resourceCupropolybasiteDesc,"Cupropolybasite [D3CE1D][Cu₆Sb₂S₇][Ag₉CuS₄][-]\n\nA [BB00FF]rare[-] copper-rich variation of polybasite. This mineral is a copper, silver, and antimony sulfosalt from the family of ruby silver ores.\n\nYields [B87333]copper[-], [d8d8d8]silver[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedCupropolybasite,"[BB00FF]Processed Cupropolybasite[-]"
-processedCupropolybasiteDesc,"Cupropolybasite [D3CE1D][Cu₆Sb₂S₇][Ag₉CuS₄][-]\n\nA [BB00FF]rare[-] variation of copper-rich polybasite. This mineral is a copper, silver, and antimony sulfosalt from the family of ruby silver ores.\n\nYields [B87333]copper[-], [d8d8d8]silver[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedCupropolybasiteDesc,"Cupropolybasite [D3CE1D][Cu₆Sb₂S₇][Ag₉CuS₄][-]\n\nA [BB00FF]rare[-] copper-rich variation of polybasite. This mineral is a copper, silver, and antimony sulfosalt from the family of ruby silver ores.\n\nYields [B87333]copper[-], [d8d8d8]silver[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceAcanthite,"[FFD700]Acanthite[-]"
-resourceAcanthiteDesc,"Acanthite [D3CE1D]Ag₂S(Au,Ag)(SiO₂)[-]\n\nA [FFD700]scarce[-] specimen of the silver sulphide mineral, acanthite. This silver-rich ore contains inclusions of electrum-bearing quartz.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+resourceAcanthiteDesc,"Acanthite [D3CE1D]Ag₂S(Au,Ag)(SiO₂)[-]\n\nA [FFD700]scarce[-] specimen of the silver sulfide mineral, acanthite. This silver-rich ore contains inclusions of electrum-bearing quartz.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedAcanthite,"[FFD700]Processed Acanthite[-]"
-processedAcanthiteDesc,"Acanthite [D3CE1D]Ag₂S(Au,Ag)(SiO₂)[-]\n\nA [FFD700]scarce[-] specimen of the silver sulphide mineral, acanthite. This silver-rich ore contains inclusions of electrum-bearing quartz.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedAcanthiteDesc,"Acanthite [D3CE1D]Ag₂S(Au,Ag)(SiO₂)[-]\n\nA [FFD700]scarce[-] specimen of the silver sulfide mineral, acanthite. This silver-rich ore contains inclusions of electrum-bearing quartz.\n\nYields [d8d8d8]silver[-], [d4af37]gold[-], and [f1dd38]sulfur[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourcePorphyry,"[1a5eff]Porphyry Copper-Gold Ore[-]"
 resourcePorphyryDesc,"Granite [D3CE1D](CuFeS₂)(Au₂S)[-]\n\nAn [1a5eff]uncommon[-] porphyritic piece of granite with traces of precious metals.\n\nYields [B87333]copper[-] and [d4af37]gold[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
@@ -221,3 +221,27 @@ resourceGoldQuartzDesc,"Gold-Bearing Quartz [D3CE1D]SiO₂(Au)[-]\n\nA [FFD700]s
 processedGoldQuartz,"[FFD700]Processed Gold-Bearing Quartz[-]"
 processedGoldQuartzDesc,"Gold-Bearing Quartz [D3CE1D]SiO₂(Au)[-]\n\nA [FFD700]scarce[-] specimen of quartz packed with native gold inclusions.\n\nYields [d4af37]gold[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
+resourceErlichmanite,"[BB00FF]Erlichmanite[-]"
+resourceErlichmaniteDesc,"Erlichmanite [D3CE1D]OsS₂[-]\n\nA [BB00FF]rare[-] osmium sulfide mineral that contains traces of other platinum-group metals.\n\nYields [9090a3]osmium[-], [c9cbc8]ruthenium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedErlichmanite,"[BB00FF]Erlichmanite[-]"
+processedErlichmaniteDesc,"Erlichmanite [D3CE1D]OsS₂[-]\n\nA [BB00FF]rare[-] osmium sulfide mineral that contains traces of other platinum-group metals.\n\nYields [9090a3]osmium[-], [c9cbc8]ruthenium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+resourceBraggite,"[BB00FF]Braggite[-]"
+resourceBraggiteDesc,"Braggite [D3CE1D](Pt, Pd, Ni)S[-]\n\nA [BB00FF]rare[-] PGM sulfide mineral with inclusions of native palladium.\n\nYields [b1b1b1]palladium[-] and [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedBraggite,"[BB00FF]Braggite[-]"
+processedBraggiteDesc,"Braggite [D3CE1D](Pt, Pd, Ni)S[-]\n\nA [BB00FF]rare[-] PGM sulfide mineral with inclusions of native palladium.\n\nYields [b1b1b1]palladium[-] and [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+resourceSperrylite,"[ffd700]Sperrylite[-]"
+resourceSperryliteDesc,"Sperrylite [D3CE1D]PtAs₂[-]\n\nA [ffd700]scarce[-] platinum arsenide mineral.\n\nYields [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSperrylite,"[ffd700]Sperrylite[-]"
+processedSperryliteDesc,"Sperrylite [D3CE1D]PtAs₂[-]\n\nA [ffd700]scarce[-] platinum arsenide mineral.\n\nYields [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+resourceIrarsite,"[ffd700]Irarsite[-]"
+resourceIrarsiteDesc,"Irarsite [D3CE1D](Ir,Ru,Rh,Pt)AsS[-]\n\nA [ffd700]scarce[-] iridum sulfoarsenide mineral rich in many platinum-group metals.\n\nYields [c9cbc8]ruthenium[-], [e5e4e2]platinum[-], [b2a4a6]iridium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedIrarsite,"[ffd700]Irarsite[-]"
+processedIrarsiteDesc,"Irarsite [D3CE1D](Ir,Ru,Rh,Pt)AsS[-]\n\nA [ffd700]scarce[-] iridum sulfoarsenide mineral rich in many platinum-group metals.\n\nYields [c9cbc8]ruthenium[-], [e5e4e2]platinum[-], [b2a4a6]iridium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+
+resourceLaurite,"[ffd700]Laurite[-]"
+resourceLauriteDesc,"Laurite [D3CE1D]RuS₂[-]\n\nA [ffd700]scarce[-] ruthenium sulfide mineral that contains high substitutions of iridium and rhodium.\n\nYields [c9cbc8]ruthenium[-], [b2a4a6]iridium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedLaurite,"[ffd700]Laurite[-]"
+processedLauriteDesc,"Laurite [D3CE1D]RuS₂[-]\n\nA [ffd700]scarce[-] ruthenium sulfide mineral that contains high substitutions of iridium and rhodium.\n\nYields [c9cbc8]ruthenium[-], [b2a4a6]iridium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
