@@ -169,7 +169,7 @@
 		<ingredient name="resourceRefinedZinc" count="340"/>
 	</recipe>
 	<recipe name="processedSulfuricAcid_Sulfur" count="1" craft_area="chemistryStation" craft_time="55" tags="chemStationCrafting">
-		<ingredient name="resourceSulfur" count="75"/>
+		<ingredient name="resourceRefinedSulfur" count="75"/>
 		<ingredient name="resourcePotassiumNitratePowder" count="200"/>
 		<ingredient name="drinkJarBoiledWater" count="1"/>
 	</recipe>	
