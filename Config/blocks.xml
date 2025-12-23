@@ -31,9 +31,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0003" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".002" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".001" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".001" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".0009" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".0008" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0008" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".0004" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".00025" count="1" />		
 	</append>
@@ -59,9 +59,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".002" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".00085" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00085" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".00085" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00065" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".0002" count="1" />		
 	</append>
@@ -87,9 +87,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".002" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0007" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".0007" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00065" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".0002" count="1" />		
 	</append>
@@ -115,9 +115,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".0025" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".0007" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0007" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".0007" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".00015" count="1" />		
 	</append>
@@ -143,9 +143,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".0025" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
-		<drop event="Destroy" name="resourceBraggite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceSperrylite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceBraggite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".00020" count="1" />		
 	</append>
@@ -171,9 +171,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0003" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".00085" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00085" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".00075" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00065" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".00035" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".0003" count="1" />		
 	</append>
@@ -199,9 +199,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".00045" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00035" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".00015" count="1" />		
 	</append>
@@ -227,9 +227,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00015" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".0005" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".0005" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".00045" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".00035" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00035" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".0002" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".00015" count="1" />		
 	</append>
@@ -255,9 +255,9 @@
 		<drop event="Destroy" name="resourcePlacerGold" prob=".00035" count="1" />
 		<drop event="Destroy" name="resourceGoldQuartz" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceHalite" prob=".005" count="1" />
-		<drop event="Destroy" name="resourceErlichmanite" prob=".00065" count="1" />
+		<drop event="Destroy" name="resourceSperrylite" prob=".00065" count="1" />
 		<drop event="Destroy" name="resourceBraggite" prob=".0006" count="1" />
-		<drop event="Destroy" name="resourceSperrylite" prob=".00045" count="1" />
+		<drop event="Destroy" name="resourceErlichmanite" prob=".00045" count="1" />
 		<drop event="Destroy" name="resourceIrarsite" prob=".00025" count="1" />
 		<drop event="Destroy" name="resourceLaurite" prob=".0002" count="1" />		
 	</append>

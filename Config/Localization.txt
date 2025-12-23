@@ -221,20 +221,20 @@ resourceGoldQuartzDesc,"Gold-Bearing Quartz [D3CE1D]SiO₂ with Au[-]\n\nA [FFD7
 processedGoldQuartz,"[FFD700]Processed Gold-Bearing Quartz[-]"
 processedGoldQuartzDesc,"Gold-Bearing Quartz [D3CE1D]SiO₂ with Au[-]\n\nA [FFD700]scarce[-] specimen of quartz packed with native gold inclusions.\n\nYields [d4af37]gold[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
-resourceErlichmanite,"[BB00FF]Erlichmanite[-]"
-resourceErlichmaniteDesc,"Erlichmanite [D3CE1D]OsS₂[-]\n\nA [BB00FF]rare[-] osmium sulfide mineral that contains traces of other platinum-group metals.\n\nYields [9090a3]osmium[-], [c9cbc8]ruthenium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
-processedErlichmanite,"[BB00FF]Erlichmanite[-]"
-processedErlichmaniteDesc,"Erlichmanite [D3CE1D]OsS₂[-]\n\nA [BB00FF]rare[-] osmium sulfide mineral that contains traces of other platinum-group metals.\n\nYields [9090a3]osmium[-], [c9cbc8]ruthenium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+resourceSperrylite,"[bb00ff]Sperrylite[-]"
+resourceSperryliteDesc,"Sperrylite [D3CE1D]PtAs₂[-]\n\nA [bb00ff]rare[-] platinum arsenide mineral that formed with an exceptionally large crystal.\n\nYields [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedSperrylite,"[bb00ff]Sperrylite[-]"
+processedSperryliteDesc,"Sperrylite [D3CE1D]PtAs₂[-]\n\nA [bb00ff]rare[-] platinum arsenide mineral that formed with an exceptionally large crystal.\n\nYields [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceBraggite,"[BB00FF]Braggite[-]"
 resourceBraggiteDesc,"Braggite [D3CE1D](Pt,Pd,Ni)S[-]\n\nA [BB00FF]rare[-] PGM sulfide mineral with inclusions of native palladium.\n\nYields [b1b1b1]palladium[-] and [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 processedBraggite,"[BB00FF]Braggite[-]"
 processedBraggiteDesc,"Braggite [D3CE1D](Pt,Pd,Ni)S[-]\n\nA [BB00FF]rare[-] PGM sulfide mineral with inclusions of native palladium.\n\nYields [b1b1b1]palladium[-] and [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
-resourceSperrylite,"[ffd700]Sperrylite[-]"
-resourceSperryliteDesc,"Sperrylite [D3CE1D]PtAs₂[-]\n\nA [ffd700]scarce[-] specimen of platinum arsenide ore that formed with an exceptionally large crystal.\n\nYields [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
-processedSperrylite,"[ffd700]Sperrylite[-]"
-processedSperryliteDesc,"Sperrylite [D3CE1D]PtAs₂[-]\n\nA [ffd700]scarce[-] specimen of platinum arsenide ore that formed with an exceptionally large crystal.\n\nYields [e5e4e2]platinum[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+resourceErlichmanite,"[ffd700]Erlichmanite[-]"
+resourceErlichmaniteDesc,"Erlichmanite [D3CE1D]OsS₂[-]\n\nA [ffd700]scarce[-] specimen of osmium sulfide ore abundant in platinum-group metals.\n\nYields [9090a3]osmium[-], [c9cbc8]ruthenium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
+processedErlichmanite,"[ffd700]Erlichmanite[-]"
+processedErlichmaniteDesc,"Erlichmanite [D3CE1D]OsS₂[-]\n\nA [ffd700]scarce[-] specimen of osmium sulfide ore abundant in platinum-group metals.\n\nYields [9090a3]osmium[-], [c9cbc8]ruthenium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"
 
 resourceIrarsite,"[ffd700]Irarsite[-]"
 resourceIrarsiteDesc,"Irarsite [D3CE1D](Ir,Ru,Rh,Pt)AsS[-]\n\nA [ffd700]scarce[-] iridum sulfoarsenide mineral rich in many platinum-group metals.\n\nYields [c9cbc8]ruthenium[-], [e5e4e2]platinum[-], [b2a4a6]iridium[-], and [d1d7d7]rhodium[-] after processing.\n\nWorkstation: [D3CE1D]Chemistry Station[-]\nStation Tool: [D3CE1D]Ore Processing Tools[-]"

@@ -886,7 +886,7 @@
 	
 	<!-- Processed Platinum Group Element Ore Bundles-->
 	
-	<item name="processedErlichmanite">
+	<item name="processedSperrylite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -899,8 +899,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedOsmium,resourceRefinedRuthenium,resourceRefinedRhodium"/>
-			<property name="Create_item_count" value="17,4,2,"/>
+			<property name="Create_item" value="resourceRefinedPlatinum"/>
+			<property name="Create_item_count" value="20"/>
 		</property>
 	</item>
 	<item name="processedBraggite">
@@ -920,7 +920,7 @@
 			<property name="Create_item_count" value="15,7,"/>
 		</property>
 	</item>	
-	<item name="processedSperrylite">
+	<item name="processedErlichmanite">
 		<property name="HoldType" value="45"/>
 		<property name="ItemTypeIcon" value="bundle"/>
 		<property name="Meshfile" value="@:Other/Items/Misc/sackPrefab.prefab"/>
@@ -933,8 +933,8 @@
 		<property class="Action0">
 			<property name="Class" value="OpenBundle"/>
 			<property name="Delay" value="0"/>
-			<property name="Create_item" value="resourceRefinedPlatinum"/>
-			<property name="Create_item_count" value="30,"/>
+			<property name="Create_item" value="resourceRefinedOsmium,resourceRefinedRuthenium,resourceRefinedRhodium"/>
+			<property name="Create_item_count" value="28,10,3,"/>
 		</property>
 	</item>
 	<item name="processedIrarsite">
